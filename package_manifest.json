@@ -1,0 +1,2921 @@
+{
+  "source_archive_sha256": "835327e56a8c58a01540fd9bc35a055f3ef130ec85b57ba6eac26c049829138b",
+  "source_workbook_sha256": "a4254d90f9f6341da0486c700b7dca636b107b1bd25d0d4b6c368031a4830f66",
+  "files": [
+    {
+      "path": "ENGLISH_REVISION.md",
+      "bytes": 3207,
+      "sha256": "7aa8da625f11b8905210f349ac74dc48749535b2a818445fc83ecf16a67fdef8"
+    },
+    {
+      "path": "external_protocol_template.json",
+      "bytes": 250,
+      "sha256": "b6912e640ee2d523148da9e6d2716b55b140b29b68c10fdb60066b635a0fe1d1"
+    },
+    {
+      "path": "MANUSCRIPT_ALIGNMENT.md",
+      "bytes": 8408,
+      "sha256": "7d845316607a21f1f7082ef752ce23e2103030938890c6ea3aab0c138066234e"
+    },
+    {
+      "path": "OUTPUT_SCHEMA.md",
+      "bytes": 13780,
+      "sha256": "0885c8e76034e58c516bb0c8a47fa81c78b4c5c1df0b65a93d3e198c9769f294"
+    },
+    {
+      "path": "PACKAGE_VALIDATION.json",
+      "bytes": 1844,
+      "sha256": "47ddb1377dc497edd0d37fc5d2d45f6442b17835bd4064b35e7a3a19cc4a12b6"
+    },
+    {
+      "path": "README.txt",
+      "bytes": 8014,
+      "sha256": "d6d7a28f01c32d4a464d691f76f852ea7be81630ca8b850564774bf8a8faf9bb"
+    },
+    {
+      "path": "requirements_binoculars_gpu.txt",
+      "bytes": 41,
+      "sha256": "347ff36fc02340ec9c41b0d8da9dc37e7fc650e1481ae2e1153f01c40b361ddc"
+    },
+    {
+      "path": "requirements_training.txt",
+      "bytes": 270,
+      "sha256": "0ee418170360a7ae687a04afbec67707b2951d26c72af04d70e84b5c824acba5"
+    },
+    {
+      "path": "RIGAT_Actual_Report/Fig10_Risk_Coverage_Curves.png",
+      "bytes": 1711414,
+      "sha256": "7a7db37b6bb53479a320a20340aa4f1f40fa0dfac627930806aa51f077dca9a4"
+    },
+    {
+      "path": "RIGAT_Actual_Report/Fig11_RAID_Transfer.png",
+      "bytes": 477915,
+      "sha256": "16672cdb30bab98665b3c2dcb09512000db355a4df98dd48b11d990e755dda5f"
+    },
+    {
+      "path": "RIGAT_Actual_Report/Fig12_Model_Size_vs_F1.png",
+      "bytes": 454436,
+      "sha256": "9ef6deeddb927cb499bb2d1c220409073250d7d40d6cbc30fdd8015defff8cc9"
+    },
+    {
+      "path": "RIGAT_Actual_Report/Fig3_Ablation_MacroF1.png",
+      "bytes": 388520,
+      "sha256": "f33f4afa6ee152201edd53781b855d9a61d72e88ccd4e926556ef2802c2b98cc"
+    },
+    {
+      "path": "RIGAT_Actual_Report/Fig4_Confusion_Matrices.png",
+      "bytes": 510350,
+      "sha256": "f9519c7005b661fcc2b761a8290ee8d690fb9927e4683615036e527e18b926c9"
+    },
+    {
+      "path": "RIGAT_Actual_Report/Fig5_ROC_PR_Curves.png",
+      "bytes": 879838,
+      "sha256": "d17bbc0deadf0cd8903b1eb87100b74247997e66b34ccf334d41fc2574d734b4"
+    },
+    {
+      "path": "RIGAT_Actual_Report/Fig6_Robustness_and_Domain.png",
+      "bytes": 1196888,
+      "sha256": "b61ca657699e662940f1ebac313adba784d0feb88c72de33bf63cc44d012210c"
+    },
+    {
+      "path": "RIGAT_Actual_Report/Fig7_ECE_AURC_Bar.png",
+      "bytes": 416021,
+      "sha256": "baff5420ef2ce076bff1826b15512a7b087fd0d023e390cc1dec541848fa3c84"
+    },
+    {
+      "path": "RIGAT_Actual_Report/Fig8_Latency_Coverage.png",
+      "bytes": 827332,
+      "sha256": "df6f4867d37c6da304399594bee179274518fdb3184000542a261a34ef0ed039"
+    },
+    {
+      "path": "RIGAT_Actual_Report/Fig9_Reliability_Diagrams.png",
+      "bytes": 1080721,
+      "sha256": "2ad1fc9f67dcbf2b3ac4a0800307573d341a6f2f887bbaf8088e6030e0f2e11f"
+    },
+    {
+      "path": "RIGAT_Actual_Report/report_manifest.json",
+      "bytes": 1669,
+      "sha256": "faec8d0ade50361c9d6356a8e2428074eee15b6d17532e9a99a78342b48dbd18"
+    },
+    {
+      "path": "RIGAT_Actual_Report/RIGAT_Actual_Report.xlsx",
+      "bytes": 113310,
+      "sha256": "f4f6e4109f8ccf7a1a18216ae4ccb5b748a295e02c2893c8459054e9b2fc36fa"
+    },
+    {
+      "path": "RIGAT_Actual_Report/T01_Comparator_Overview.csv",
+      "bytes": 1092,
+      "sha256": "e6e8d77c5b5fef198766389377bd404d625f982e85142c6b7a0c92aa8d802e0b"
+    },
+    {
+      "path": "RIGAT_Actual_Report/T02_Dataset_Composition.csv",
+      "bytes": 527,
+      "sha256": "d9784a77831595d9d191889d07eb4a8b363e211bceedfd2faf948842b12dabb0"
+    },
+    {
+      "path": "RIGAT_Actual_Report/T03_Experimental_Configuration.csv",
+      "bytes": 1547,
+      "sha256": "88e47c13dfde8ee28a79d5a996029765a9bd6047e86d4ec5f5196aef79724592"
+    },
+    {
+      "path": "RIGAT_Actual_Report/T04_Ablation_and_Baselines.csv",
+      "bytes": 1091,
+      "sha256": "c741576b1a767ccb330de0824a1bec542706cdfddb1f4025078cceb171514142"
+    },
+    {
+      "path": "RIGAT_Actual_Report/T05_Standard_Test.csv",
+      "bytes": 3100,
+      "sha256": "931cd68f0a55b0acd2f95b0ec18faffebe296d91d0b900844cfeea2580f50cc2"
+    },
+    {
+      "path": "RIGAT_Actual_Report/T06_Robustness_Shifts.csv",
+      "bytes": 2705,
+      "sha256": "0d43bb7a7e4679b37a6f9e867d2322011915245cd4fa1a1df9de940c54d782eb"
+    },
+    {
+      "path": "RIGAT_Actual_Report/T07_Calibration_Trust.csv",
+      "bytes": 8933,
+      "sha256": "60957045699eadea9cae1a80b280c0e84d2846630142c72e4af824820d023356"
+    },
+    {
+      "path": "RIGAT_Actual_Report/T08_Coverage_Efficiency.csv",
+      "bytes": 3449,
+      "sha256": "a6fb721172c25084c4ba31e34e1761eb2eebb3c2634057ba505b354675d57ed3"
+    },
+    {
+      "path": "RIGAT_Actual_Report/T09_Statistical_Comparisons.csv",
+      "bytes": 60541,
+      "sha256": "c2b0c179458dfe0899fd8a7c669b155e8f6b7a0dba963bf4a46dae61f32dd4c5"
+    },
+    {
+      "path": "RIGAT_Actual_Report/T10_Calibration_Diagnosis.csv",
+      "bytes": 16418,
+      "sha256": "777fde10fcd978396b3b0024e0f7095a35495a17e3e14a1ca23fc816821cd49f"
+    },
+    {
+      "path": "RIGAT_Actual_Report/T11_RAID_Validation.csv",
+      "bytes": 2406,
+      "sha256": "23d942efd293752581bd21cb1901ec61cd90bea49d7b3ad509f203abde3e04f1"
+    },
+    {
+      "path": "RIGAT_Actual_Report/T12_Computational_Cost.csv",
+      "bytes": 3161,
+      "sha256": "e42c4eb2111ab487d1e2dd6eb5b88577143a6d266323d5b62f29740f88328d05"
+    },
+    {
+      "path": "RIGAT_Actual_Run/Baseline_Fits.csv.gz",
+      "bytes": 121,
+      "sha256": "73f515b90b6968cc341f5c9a2bb2970755c92d7f493c3413df2b4d57b648b792"
+    },
+    {
+      "path": "RIGAT_Actual_Run/Bins.csv.gz",
+      "bytes": 36854,
+      "sha256": "c290ba2daa184c074170b2698249591b5989ff4b3dff5a9bbf660f1d071d6986"
+    },
+    {
+      "path": "RIGAT_Actual_Run/Calibration.csv.gz",
+      "bytes": 10389,
+      "sha256": "c121036f8e26083bbd79134e23d4a825b2134d2a901df6c781780916491d27db"
+    },
+    {
+      "path": "RIGAT_Actual_Run/Calibration_Diagnosis.csv.gz",
+      "bytes": 4801,
+      "sha256": "b4e35f697b8c2fbfbd7809ed739b5ab1dfcb30aef58eaa8f6402a5d5c014de59"
+    },
+    {
+      "path": "RIGAT_Actual_Run/Classification.csv.gz",
+      "bytes": 20778,
+      "sha256": "4101fe99119a56674cae16e8e8f9f447fdb63933e0e8d6cac1acced5e2b635a1"
+    },
+    {
+      "path": "RIGAT_Actual_Run/completion_summary.json",
+      "bytes": 772,
+      "sha256": "7af1fc22f5f4fe66be47405dc542f9cec34984f0d7668222c13fcefb8738e94b"
+    },
+    {
+      "path": "RIGAT_Actual_Run/Configuration.csv.gz",
+      "bytes": 881,
+      "sha256": "1f51cc83e2f9d9cdb90148730af889564cabc4187f91dd46da492d99ce785bf9"
+    },
+    {
+      "path": "RIGAT_Actual_Run/Cost.csv.gz",
+      "bytes": 1915,
+      "sha256": "73d1895eb9105b0d8fb72330c22c2d483cfa12e19382209b353c7e42dcfdf03e"
+    },
+    {
+      "path": "RIGAT_Actual_Run/Coverage.csv.gz",
+      "bytes": 1897,
+      "sha256": "6848eb6b4e1466ffc330d42629328255e79d557787316348c0e8be796d5761a5"
+    },
+    {
+      "path": "RIGAT_Actual_Run/Coverage_Fits.csv.gz",
+      "bytes": 2248,
+      "sha256": "1d78697742b1e33a7d93aa6ae4ff5d03175f873657b3194ccf2433bd873dbd65"
+    },
+    {
+      "path": "RIGAT_Actual_Run/Coverage_Timing.csv.gz",
+      "bytes": 151,
+      "sha256": "65cd9064222bd37c3f1562d3d220c80a62deb40ace07d378aca70d42951da810"
+    },
+    {
+      "path": "RIGAT_Actual_Run/Dataset_Composition.csv.gz",
+      "bytes": 340,
+      "sha256": "344cb20222c16a7ac2636f366b6ba9a4097c9af0b4281bd2993f08897362240c"
+    },
+    {
+      "path": "RIGAT_Actual_Run/Domain.csv.gz",
+      "bytes": 99035,
+      "sha256": "375bad702b1d591ee4511aa8d47ff48cc07955c0989a4ab72845f00828812ac6"
+    },
+    {
+      "path": "RIGAT_Actual_Run/experiment_config.json",
+      "bytes": 759,
+      "sha256": "5fa558f4ce396f7e1cad2afed6f98d1b4b5b0676efb20fa252629864150f32de"
+    },
+    {
+      "path": "RIGAT_Actual_Run/external_protocol.json",
+      "bytes": 1479,
+      "sha256": "1c61956498f760fe7b5e7a4e1a7c38dbda92afbaf2a3c9cd870b413ede91fe3a"
+    },
+    {
+      "path": "RIGAT_Actual_Run/file_mapping.csv",
+      "bytes": 56731,
+      "sha256": "b0e9f197e884495e9c0d40c6e5d14006fb9af1edeb98992c2e46abbe00ca347e"
+    },
+    {
+      "path": "RIGAT_Actual_Run/History.csv.gz",
+      "bytes": 159,
+      "sha256": "af6a3dd3e104f45a7451edec1bc5c67db89a898bc8c5cf9c44fd9045b4e09f45"
+    },
+    {
+      "path": "RIGAT_Actual_Run/input_manifest.csv",
+      "bytes": 526,
+      "sha256": "261e2919f4d29416be4b2bf41cdb567e1120b65272bf417869ac4b2c8dd08c64"
+    },
+    {
+      "path": "RIGAT_Actual_Run/method_mapping.csv",
+      "bytes": 349,
+      "sha256": "9408e52967766443702fbf353ecba28e8a03ba840ec04b5475a9087e502cb018"
+    },
+    {
+      "path": "RIGAT_Actual_Run/Predictions.csv.gz",
+      "bytes": 19216,
+      "sha256": "8f9f7ac39d65a30261bba604c47a07b1d1805d09cdec8d778e8a4bc8f0c3fbb6"
+    },
+    {
+      "path": "RIGAT_Actual_Run/preflight.json",
+      "bytes": 316,
+      "sha256": "8ecb84c7e7ef66c4743cb0cb818a4e3b0039d5d45906b6af4c57ad47970c05bd"
+    },
+    {
+      "path": "RIGAT_Actual_Run/preservation_checks.json",
+      "bytes": 1200,
+      "sha256": "18352d3431708e18a634b04e9905d940ae67dde62a09459523b66b2021b884f2"
+    },
+    {
+      "path": "RIGAT_Actual_Run/README_results.md",
+      "bytes": 174,
+      "sha256": "b89678038d9bcb10ac1e2d08c5949f4592d5fe9d363a537645875086b4deee52"
+    },
+    {
+      "path": "RIGAT_Actual_Run/record_consistency.csv",
+      "bytes": 7788,
+      "sha256": "f0d4270c79a20df7408d12d03ff057357dc350c35dd35ecb650feee622109f89"
+    },
+    {
+      "path": "RIGAT_Actual_Run/RIGAT_Cost_Source.xlsx",
+      "bytes": 9658,
+      "sha256": "4d759299cc88b88cb940e78775a8615f0709448aad37abcef73f8f02283f7087"
+    },
+    {
+      "path": "RIGAT_Actual_Run/RIGAT_Training_Results.xlsx",
+      "bytes": 11428043,
+      "sha256": "2cd2d0a594a5fe010dbe27d80a000a895e5562de52c5f4b687b9bc9aba3b4b94"
+    },
+    {
+      "path": "RIGAT_Actual_Run/Risk.csv.gz",
+      "bytes": 97775,
+      "sha256": "8b77a65b702e3cb19fb6d9c85620b9ec4452ce0b88301e277f611c46b2fbcfd2"
+    },
+    {
+      "path": "RIGAT_Actual_Run/ROC_PR.csv.gz",
+      "bytes": 569161,
+      "sha256": "6692d262d9447d6528feace186c4be33376f8f1231144cf1ce687dda7cd20206"
+    },
+    {
+      "path": "RIGAT_Actual_Run/Run_Registry.csv.gz",
+      "bytes": 361,
+      "sha256": "0c5d5d523d5c9cd42c825c8e465c1ffc3ecd9a5e3f0efb0e02f92f42cbbef999"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2026_A0/External.csv.gz",
+      "bytes": 449950,
+      "sha256": "e726af0abcc014ffc851c7eecb4734dfd1f174475357ae0f7963e10ef8ef2f4f"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2026_A0/OOD_GPT.csv.gz",
+      "bytes": 74818,
+      "sha256": "d946a0a17d545b4bf21859f3ab7147dcd6d22386902748e9c375056d36be2ca3"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2026_A0/Paraphrase.csv.gz",
+      "bytes": 112559,
+      "sha256": "763fddd49d2ea854b470d2249617d88327432c4023ae34299dc72d0ae2c03266"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2026_A0/records_Classification.csv.gz",
+      "bytes": 771,
+      "sha256": "e30e9beb046b02b06f2b74e7c6bebeff0ed05418146cd5d8cddaf6152246aac6"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2026_A0/records_Cost.csv.gz",
+      "bytes": 397,
+      "sha256": "94d692efa70c4bc9ccf302c9dc9fb72bef6051db10e2f9d26f30014f4c951059"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2026_A0/records_Domain.csv.gz",
+      "bytes": 2425,
+      "sha256": "6b17268fbaf01a01b203257611cd432b3d3aa34166f8885ba98edd1de7469968"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2026_A0/records_Predictions.csv.gz",
+      "bytes": 598,
+      "sha256": "cc06aef6987676730b92844050e5ddfa9ca3f2c6c415be228f26374787cc8081"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2026_A0/records_restored.json",
+      "bytes": 1206,
+      "sha256": "4c25f3c544f128e5d740ac8ccb62de0d30fba5daf995c94ec8d2c3aca6301115"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2026_A0/records_ROC_PR.csv.gz",
+      "bytes": 12709,
+      "sha256": "2894a3451250e7912e6f2f7945046915f69875e89462d56f1a0909842352cd6a"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2026_A0/Standard.csv.gz",
+      "bytes": 2634661,
+      "sha256": "f425633794141cd5e50ca6625bbd04cd8782e5151a26588fe512475afb340967"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2026_A1/OOD_GPT.csv.gz",
+      "bytes": 74819,
+      "sha256": "a99346e0da65d0bd491d7d3372db5030fc40acc210d6d0cd156d11d15792d35a"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2026_A1/Paraphrase.csv.gz",
+      "bytes": 112788,
+      "sha256": "8629c803a3ec0fa83e118aabf43deee903c9908f5109741ea24a65cadb9ba266"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2026_A1/records_Classification.csv.gz",
+      "bytes": 629,
+      "sha256": "ac2e23f11389a9460039fcc7c43bc07c0fe87330effd20983507ffa939d8c826"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2026_A1/records_Domain.csv.gz",
+      "bytes": 2329,
+      "sha256": "8c66a1d1dc350564515e0227b827ccdd2aec447a55393526c981fb9e1e9555f3"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2026_A1/records_Predictions.csv.gz",
+      "bytes": 489,
+      "sha256": "0f40a10cfc916595884716e6d481d3e31a9910c5eedf26b52b9a539db9e9c9d6"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2026_A1/records_restored.json",
+      "bytes": 1030,
+      "sha256": "9d77f4aca09196c933451c99945018b062677557e5c8ac4a77c0c005e27ab559"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2026_A1/records_ROC_PR.csv.gz",
+      "bytes": 9797,
+      "sha256": "d6c0bea645daefc86dc46e0f73b62ad97a530c2aae97d062824e49277176c2b9"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2026_A1/Standard.csv.gz",
+      "bytes": 2634678,
+      "sha256": "2d8c28438026ef5f113ad47b5c81af5621fd71a06fb53f159c3572345c822919"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2026_A2/OOD_GPT.csv.gz",
+      "bytes": 74812,
+      "sha256": "4329af056557d92b99d78727569a614a2eda051c38a943bc7ef731da8c537524"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2026_A2/Paraphrase.csv.gz",
+      "bytes": 112955,
+      "sha256": "2ec96e81d5819ab1a0c49641efe84b1a2a511dc44cbdfe5749efea49b0387b69"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2026_A2/records_Classification.csv.gz",
+      "bytes": 636,
+      "sha256": "4c5a68a7b80baeefc78cc2114ab17a2166783cc821c6fe34cc53cde0ec7ae9bd"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2026_A2/records_Domain.csv.gz",
+      "bytes": 2327,
+      "sha256": "0f649846f3e465e09cc07a36a3800955fbe0cf2b323eb7bd4125519f71406acb"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2026_A2/records_Predictions.csv.gz",
+      "bytes": 486,
+      "sha256": "30e250ada9df408cc0aa77ea33b1ecf578c39c122594c39af38ad894dece07a1"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2026_A2/records_restored.json",
+      "bytes": 1030,
+      "sha256": "5f3894586cf134a0c4acb0465617b020cf9db5102c2e84dd47b27428aba05e3e"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2026_A2/records_ROC_PR.csv.gz",
+      "bytes": 9544,
+      "sha256": "2c3baac7c2511240b993aba074ddba0b24db98704cf5aa9e25723b4cf5d6df12"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2026_A2/Standard.csv.gz",
+      "bytes": 2637261,
+      "sha256": "1f6aa7cc062a3602feec923d18cf18cbaed7e140382ca35aad806e49ae24a46e"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2026_A2_DRO/OOD_GPT.csv.gz",
+      "bytes": 75000,
+      "sha256": "296cd139e0e2e2a31e44cd65c35dfadd34a2f78fed1407c98dd6c1581cfc002b"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2026_A2_DRO/Paraphrase.csv.gz",
+      "bytes": 113604,
+      "sha256": "13534d2bb94b659b02201e3084d45a30a11efc6a69a19769ba9030104c974d8b"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2026_A2_DRO/records_Classification.csv.gz",
+      "bytes": 635,
+      "sha256": "02c77509a10ec0947bd6b849f5e17341535b2e318ba6cbb5312c3a05b1ca24b7"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2026_A2_DRO/records_Domain.csv.gz",
+      "bytes": 2342,
+      "sha256": "a28e134b28ba73eef19f2146e68f658d27a958ce5f7334442e0433ea1ad9dd48"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2026_A2_DRO/records_Predictions.csv.gz",
+      "bytes": 497,
+      "sha256": "a9d74e7d69cc94b23e65e11574f168dddbbee37a63d90201d6b824ac59720562"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2026_A2_DRO/records_restored.json",
+      "bytes": 1050,
+      "sha256": "d71e43eb9a3f2dcbb41685f33d6245ee1991e28264ecd17a0179c0751e0f4fb5"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2026_A2_DRO/records_ROC_PR.csv.gz",
+      "bytes": 9477,
+      "sha256": "c16a74242c7ab30bc011f8a1f1c9dbf5abffb3692b6c44278c954e22727d06c3"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2026_A2_DRO/Standard.csv.gz",
+      "bytes": 2647628,
+      "sha256": "792bf01539532db1beea2f4679385b1351015e26d0a83b0a359d9527d7b24cd3"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2026_A3/OOD_GPT.csv.gz",
+      "bytes": 74942,
+      "sha256": "e83980268aca3f02199fb00e58c93c57e7cea0007529e955696d597b6e7ca162"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2026_A3/Paraphrase.csv.gz",
+      "bytes": 113107,
+      "sha256": "d7eb95d8c943bdd9db66496d2483f4a719a7a6f1438f94308a10507ffbcf9260"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2026_A3/records_Classification.csv.gz",
+      "bytes": 633,
+      "sha256": "89882e477146125c1c0c1cea1b5d8b87210725b1ac48309daeba4bd96e98295d"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2026_A3/records_Domain.csv.gz",
+      "bytes": 2326,
+      "sha256": "081d4dbc7f91f7b51a55a3036950b86ed2ecafea3e35d292f03ab6d21e4b6f44"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2026_A3/records_Predictions.csv.gz",
+      "bytes": 495,
+      "sha256": "d9d99bc7e2f9a3a69afe413c8c54058144ac01401d9ae37eef670f1498157678"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2026_A3/records_restored.json",
+      "bytes": 1030,
+      "sha256": "daa0012588f2aa589ecb3b4fd7cb5cde52c21316169d6d8d99f402e5b0d6a425"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2026_A3/records_ROC_PR.csv.gz",
+      "bytes": 9106,
+      "sha256": "80c18e0d78a5315cb243a5114d8cbb1eb808f7d3730bfb9852a42990d595a108"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2026_A3/Standard.csv.gz",
+      "bytes": 2638406,
+      "sha256": "9ac6081d2e1d238b1adc553b28f4dd40fba05fc03080a923888c3890a4ab6e40"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2026_A4/calibrators.json",
+      "bytes": 10311,
+      "sha256": "28eec5eb4387fbbc3d4c9a0f0de93ecc86af3dffed0cf5ff93ae69122466fcbf"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2026_A4/coverage_calibrators.json",
+      "bytes": 4143,
+      "sha256": "d581898b6d555534648a53055c3e9f488d981aa06cb04621e625f520e619bf65"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2026_A4/External.csv.gz",
+      "bytes": 449162,
+      "sha256": "3f8b1ca2effc027341d6ba3b67d1e5b0877b421fa318da95c272298c5f962c24"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2026_A4/External_A5.csv.gz",
+      "bytes": 515295,
+      "sha256": "dcd42c2072b68319da1275d15e506a05fa4379b8c402bfe63eb08738b0aff7a8"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2026_A4/External_Distance_Only.csv.gz",
+      "bytes": 520912,
+      "sha256": "437fe74868df48aefb27cffba3d6a69c0d27c6becaaa8e562b87646d0d5c77a6"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2026_A4/OOD_GPT.csv.gz",
+      "bytes": 75031,
+      "sha256": "33bb0fd5bd3e6e605f5c202f5ecaed9fdc542a96dc1d5490263b8c24dde2e7cc"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2026_A4/OOD_GPT_A5.csv.gz",
+      "bytes": 83954,
+      "sha256": "b900ed287b7c54a56c51dae983038e1402e1750d4b2635cde32d1363e5947568"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2026_A4/Paraphrase.csv.gz",
+      "bytes": 113289,
+      "sha256": "4002c243a937ae6a9a105a9897b268c5536b084f22cb4125e123d056a39a7171"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2026_A4/Paraphrase_A5.csv.gz",
+      "bytes": 126972,
+      "sha256": "a4e4aa969ecced5bc44b5eb93bc427b61c4c27923e841ce9e9d02baea95d11b5"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2026_A4/records_Bins.csv.gz",
+      "bytes": 7701,
+      "sha256": "14c68b68f07541346df4a37ded57df5a0c6d4fe2272632d048974024b520ff74"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2026_A4/records_Calibration.csv.gz",
+      "bytes": 2408,
+      "sha256": "7a266b09a94e3dcae89821711fd349e8e6042d772f5c9648930e705e848845cc"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2026_A4/records_Calibration_Diagnosis.csv.gz",
+      "bytes": 1438,
+      "sha256": "0a74cd7696e77bc684486d891d5fa9665332afe59e70119b1a527e8824b5adbf"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2026_A4/records_Classification.csv.gz",
+      "bytes": 1094,
+      "sha256": "6f991af535b93469883576a6205a091ac696b3e73fe48eace07add310d98aed0"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2026_A4/records_Cost.csv.gz",
+      "bytes": 418,
+      "sha256": "3345d49ecbd3e7a1aa497f73ba42f9649f59432a9cb94bd367909db3253d41db"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2026_A4/records_Coverage.csv.gz",
+      "bytes": 780,
+      "sha256": "643eb4cf93a7ba39ef6099884e2fef657247ad7988c2460209b4c5aeff0a9d00"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2026_A4/records_Coverage_Fits.csv.gz",
+      "bytes": 775,
+      "sha256": "484dbe398c7448ccab77ea983a33b93ed19d9a4e6155d6a9858bc20926a9177f"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2026_A4/records_Domain.csv.gz",
+      "bytes": 3517,
+      "sha256": "35fcb752315f223efff97796d431f30ec3f0b6f12ae6939ec40298f8f8987ed2"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2026_A4/records_Predictions.csv.gz",
+      "bytes": 1078,
+      "sha256": "762fcaedecc86b6eaf55c425026f4a37a41b4821357894ad276d2e225612c0ca"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2026_A4/records_restored.json",
+      "bytes": 2344,
+      "sha256": "af54f1ad4dbe91cd6ce27e45a40134dadce159e2c37e7d850c67526d8418703f"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2026_A4/records_Risk.csv.gz",
+      "bytes": 18998,
+      "sha256": "a57aacdd72218f4866abb6112c79abe88a2b998841081bb648dfc560521316de"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2026_A4/records_ROC_PR.csv.gz",
+      "bytes": 20176,
+      "sha256": "ed76d42dc5b5cb5ef88e14c59ed990f0ce477c49e05ce9cbf5d3b4130462b2de"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2026_A4/Standard.csv.gz",
+      "bytes": 2639490,
+      "sha256": "b21bb5344a332fba0dee59e4bf7bc087a4d5f12792dfc9107d7df4e59a094cc6"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2026_A4/Standard_A5.csv.gz",
+      "bytes": 2951137,
+      "sha256": "f59e6c0a4600c631e175354e26e26f0e6edb288d226a35693e24489e998b2285"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2026_DP-Net-adapted/External.csv.gz",
+      "bytes": 452755,
+      "sha256": "d6655ad35c727b6dfbe31c89fa7f4ae9050c2eac70b98b8a1eb6b359bbb4c07b"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2026_DP-Net-adapted/OOD_GPT.csv.gz",
+      "bytes": 75716,
+      "sha256": "7be02bf78d2757635762b89420576bd7759404ef20e322f9ccd8792d35819061"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2026_DP-Net-adapted/Paraphrase.csv.gz",
+      "bytes": 113585,
+      "sha256": "a3cda62b314f4e2077da6835302ce041627707df689a4e933f2e3a11e19e9c40"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2026_DP-Net-adapted/records_Classification.csv.gz",
+      "bytes": 774,
+      "sha256": "4cdffebe64d8262ebe2fdde28678c9c4a78b95521682b43c5a88e3a440224362"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2026_DP-Net-adapted/records_Cost.csv.gz",
+      "bytes": 408,
+      "sha256": "7e1ea50d82506738f25dee6d3a6321a68b0d4210577391aca13db3287b8c9c6f"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2026_DP-Net-adapted/records_Domain.csv.gz",
+      "bytes": 2420,
+      "sha256": "239bad1646536a5f769e042193e4eb0485c76fb35315049c3fd19e5b6974a80e"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2026_DP-Net-adapted/records_Predictions.csv.gz",
+      "bytes": 603,
+      "sha256": "8973b9ec3d65b1da017cb6560e84ec597c7f83f4d05be5e59ce92230392a2d86"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2026_DP-Net-adapted/records_restored.json",
+      "bytes": 1278,
+      "sha256": "41e4ee2abdf8773a7e9af2239e734cc8884c99e9e596fbcc2737f37fbe2ce420"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2026_DP-Net-adapted/records_ROC_PR.csv.gz",
+      "bytes": 12355,
+      "sha256": "9c1c45191ba1201d3bb9c65d5767b4e06b56091a97f4e48c9dd01cf087ec2ef5"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2026_DP-Net-adapted/Standard.csv.gz",
+      "bytes": 2659848,
+      "sha256": "89ae8304d970b5b3108e4d84dbe547ffd548ef2bf79054290caa00bbf15e80ca"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2026_Longformer/External.csv.gz",
+      "bytes": 449353,
+      "sha256": "012c9f3bd0cd68d6b61037ce76e9f12201d0297f4be3146b8eaaa3ef877fcb66"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2026_Longformer/OOD_GPT.csv.gz",
+      "bytes": 75201,
+      "sha256": "a0a091cc859a6dbe2b8799b354650f34a81b0dfb07e34b52f8fb5e0b448a1ca3"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2026_Longformer/Paraphrase.csv.gz",
+      "bytes": 113327,
+      "sha256": "32359a73e1bec11c2497dfa6ea47c1f5e79050fa4d0b4438346c0262da642183"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2026_Longformer/records_Classification.csv.gz",
+      "bytes": 758,
+      "sha256": "0a0ebd44a1a47c30025347e9272121d0fa24de8ecbbd0abcf14af208dc7e5dbd"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2026_Longformer/records_Cost.csv.gz",
+      "bytes": 402,
+      "sha256": "3aa8f476590e4318a4dbd1969fcf7e736cfc488e1f42c18898da4c1b283739b3"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2026_Longformer/records_Domain.csv.gz",
+      "bytes": 2455,
+      "sha256": "6b823df41e05504db102ef89df1dec4841c31a942838898af8937c4413061b37"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2026_Longformer/records_Predictions.csv.gz",
+      "bytes": 594,
+      "sha256": "b9f49044eb661e66af77000f6db9bbc4331520ac9494cb05babd325cf3a80840"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2026_Longformer/records_restored.json",
+      "bytes": 1254,
+      "sha256": "ffff18442c8e9d63f2ed1c6fe62b79724a13de7106e69fb20d4602dfdf811c96"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2026_Longformer/records_ROC_PR.csv.gz",
+      "bytes": 12819,
+      "sha256": "32fc7a9e1aa3b8984621409b0bde26ca547a08107edb7cd6581b2c40b47746f6"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2026_Longformer/Standard.csv.gz",
+      "bytes": 2651438,
+      "sha256": "c6b784e6d4c82c6ca47e510ec4eaf8fedaa864a775ac861d3f7e9c49fbda93c3"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2026_WaveDetect-adapted/External.csv.gz",
+      "bytes": 453608,
+      "sha256": "e98e122add8c209cd2460bf5822c4331ca25fbf08b3cf21a646abab595ec0964"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2026_WaveDetect-adapted/OOD_GPT.csv.gz",
+      "bytes": 75933,
+      "sha256": "f143674f6e6f8133fda06a90b19c59384772c5a87e420f255d07f596b14f9742"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2026_WaveDetect-adapted/Paraphrase.csv.gz",
+      "bytes": 114282,
+      "sha256": "8166512d7a72eb3eb28ff4ac2e2a4e7fb0081173892bc168b1836ae67117c572"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2026_WaveDetect-adapted/records_Classification.csv.gz",
+      "bytes": 773,
+      "sha256": "e95a06c9fac3e64dfae0df8ef654c2afc838119920858e3fed7bd7d5b0c6b493"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2026_WaveDetect-adapted/records_Cost.csv.gz",
+      "bytes": 409,
+      "sha256": "bf7a4bee641ecd8636a5cc05290da82871e872641e2b57121a94cf1cbfdc3934"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2026_WaveDetect-adapted/records_Domain.csv.gz",
+      "bytes": 2460,
+      "sha256": "c7fccc374f43ced20b694ccb38e83adbfb442f564e0eaef245e14aa62c967d85"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2026_WaveDetect-adapted/records_Predictions.csv.gz",
+      "bytes": 603,
+      "sha256": "246a75468837a8bf8a55f89dae77e5d9bf8a3f2ab1c2fc0bc16be156795b54bf"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2026_WaveDetect-adapted/records_restored.json",
+      "bytes": 1302,
+      "sha256": "4d44b822c33768a8186db422e430cf7fbfaf103ec733be10f9dd22e3c84f5e39"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2026_WaveDetect-adapted/records_ROC_PR.csv.gz",
+      "bytes": 11964,
+      "sha256": "d77568d790734b1e228031960f140447d351c2278e00fcb9b5785ed4c4be11b4"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2026_WaveDetect-adapted/Standard.csv.gz",
+      "bytes": 2670993,
+      "sha256": "f753bba0d7f55b9882fcc0ef46d3348d7aba56487f754a555969806a8b5af75d"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2027_A0/External.csv.gz",
+      "bytes": 449930,
+      "sha256": "9016b5e34958019af8499dc66314614108aab18ac9ed32b3fa816d53e1d976b1"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2027_A0/OOD_GPT.csv.gz",
+      "bytes": 74820,
+      "sha256": "0562f90159aa42864f4362c2adbd9813088c680b13ebb2c0aea93dbb05bb426b"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2027_A0/Paraphrase.csv.gz",
+      "bytes": 112786,
+      "sha256": "41dc75948485aa077d29985f4febc69206d31be26d5b49bf83706ef03a1c954a"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2027_A0/records_Classification.csv.gz",
+      "bytes": 770,
+      "sha256": "01f261e077e7837dd38f248618eb690e8948ac6d1e45dd8da1f034c4f7172088"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2027_A0/records_Cost.csv.gz",
+      "bytes": 394,
+      "sha256": "330f2bb5c4a5308b06a78a4d29267960995623ade098608f2f42accbc0e01715"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2027_A0/records_Domain.csv.gz",
+      "bytes": 2453,
+      "sha256": "9eaa27d466389a2d1f1bbe6e762e806c13cfc1eecfef84f88538a43954a7309d"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2027_A0/records_Predictions.csv.gz",
+      "bytes": 596,
+      "sha256": "df8e8fb7eb7cc7474f89f2fa1e8c25d4b2a545664ccc688ecbd8466840a9fc57"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2027_A0/records_restored.json",
+      "bytes": 1206,
+      "sha256": "88463ff9ae95285d0c6d2883c590fdbc9ca944491a2818462190ac5b1b8b9739"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2027_A0/records_ROC_PR.csv.gz",
+      "bytes": 12859,
+      "sha256": "e45e475f96b4ea6caeb8d0712e8fa8d38b509c27e9d62ce2c11a7d9fc3774167"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2027_A0/Standard.csv.gz",
+      "bytes": 2635480,
+      "sha256": "972d79057ef415b146a686efeb8c0fcc18ca1226e2853a3fac3ccd7f91fa9d9f"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2027_A1/OOD_GPT.csv.gz",
+      "bytes": 74801,
+      "sha256": "7c09154ff8b09ded90f4daad326cb6c0c54d90fcb077f5a1be1315866ffb2e3f"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2027_A1/Paraphrase.csv.gz",
+      "bytes": 113014,
+      "sha256": "c8d1440cb1ced9627c62c18c957fa5d38942e939f094cd671185e61ef2f4ec4d"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2027_A1/records_Classification.csv.gz",
+      "bytes": 634,
+      "sha256": "f22b0c32381c8956b4b8e1320023e23820dd491dff2384117f01f0f4299aa729"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2027_A1/records_Domain.csv.gz",
+      "bytes": 2326,
+      "sha256": "21c4e80792cf936478c461182bf2eb426e6f676d6b4ccd5931e0f58b61cd5488"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2027_A1/records_Predictions.csv.gz",
+      "bytes": 491,
+      "sha256": "a4c86a284c374c3d1c59c367cf4503c9a01ce5fe6683eec919103c3708812ef0"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2027_A1/records_restored.json",
+      "bytes": 1030,
+      "sha256": "faa9ba6feaf931d88546b4a4377b245139cf3e893cd71f871b33d286b1c922df"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2027_A1/records_ROC_PR.csv.gz",
+      "bytes": 9788,
+      "sha256": "3a0367c3b836b5449d7c376c831f10b5bf7b36ba3913558bf6b1d8bb1326f1e1"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2027_A1/Standard.csv.gz",
+      "bytes": 2634740,
+      "sha256": "0f8c4ca9a706f2799c118f0ad66fe9df265db6a28068b64ea1904c7cf24172b4"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2027_A2/OOD_GPT.csv.gz",
+      "bytes": 74832,
+      "sha256": "a1b62fe64aed9b40ff5c66a63d70928407437884c76cc1d2cc35b77a7511fedb"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2027_A2/Paraphrase.csv.gz",
+      "bytes": 113013,
+      "sha256": "b6c3d2697b4c8c55428e934c87642f18ad89db3055d51ef6f4dae137f2c7e904"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2027_A2/records_Classification.csv.gz",
+      "bytes": 637,
+      "sha256": "79d87d19c2e959bb192b5db731d8ac03aef021ab703b6b4de59ca5c0b43a0abe"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2027_A2/records_Domain.csv.gz",
+      "bytes": 2321,
+      "sha256": "9175b50b671e684693f4efce55dd3dfb78d7aedf98c88d09b93bf0baf2f05e71"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2027_A2/records_Predictions.csv.gz",
+      "bytes": 488,
+      "sha256": "1ea1af08030caafb828fd6bf6413d1af607523148a1ba4eb73a25b958c2d8e87"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2027_A2/records_restored.json",
+      "bytes": 1030,
+      "sha256": "fe71b8abeab22e8438472fb208262f6b9f9621db9f88704d8a7244eaa6b092c3"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2027_A2/records_ROC_PR.csv.gz",
+      "bytes": 9606,
+      "sha256": "b9cba9d88e7e8dba60d85281d2382b109ddb47c3a3d2e14cd7ee8fcf7686eaa9"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2027_A2/Standard.csv.gz",
+      "bytes": 2638100,
+      "sha256": "71a1ec41f9159598b4d6ef6454675f9dfd976a4a1793edbcb3d6d5ec8657610e"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2027_A2_DRO/OOD_GPT.csv.gz",
+      "bytes": 74879,
+      "sha256": "00d6c611c19b4ac62fb809e1231cd4f7ddd4d2ebb7658710f9504aa25490c6ca"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2027_A2_DRO/Paraphrase.csv.gz",
+      "bytes": 113304,
+      "sha256": "1d141085bf2b5de2e9018afc80c6504c1f7acad0d228f8c1318e7175237efd30"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2027_A2_DRO/records_Classification.csv.gz",
+      "bytes": 645,
+      "sha256": "32bcd672aea01f272cabcaae7f0612c34d270cf486a99a3a70f88ad64b9e6ad5"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2027_A2_DRO/records_Domain.csv.gz",
+      "bytes": 2270,
+      "sha256": "25f77eb8e3a04eb22299c11618a1b8136d734980fa0cf1acff59c61fbfead856"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2027_A2_DRO/records_Predictions.csv.gz",
+      "bytes": 500,
+      "sha256": "aa0cbb26a38644460de2ea7c5ae6f4a92b4affef713c2e823674e8f0cf1cac19"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2027_A2_DRO/records_restored.json",
+      "bytes": 1050,
+      "sha256": "5647b926c242e61c1d1269b5753070d7d37397fca3a638322f4b6a0b69af3714"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2027_A2_DRO/records_ROC_PR.csv.gz",
+      "bytes": 9365,
+      "sha256": "5f9f297e524008cbe901de6bf044dd09a2d2d658d4d22030964e758245c4dcc3"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2027_A2_DRO/Standard.csv.gz",
+      "bytes": 2648469,
+      "sha256": "550a0c57cecd1832d9755c6c5e5a883912741adb1a335e838615f677e79ed158"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2027_A3/OOD_GPT.csv.gz",
+      "bytes": 74944,
+      "sha256": "ad4f85071e1b27fb8f21e233739582d220ad0f48fdf95e2b4a7609068600faa6"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2027_A3/Paraphrase.csv.gz",
+      "bytes": 113156,
+      "sha256": "dc84862bfdffdcc088d1c38bddbfebf93956bfbaac9edfdb68af480408e80f40"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2027_A3/records_Classification.csv.gz",
+      "bytes": 634,
+      "sha256": "b2564fa0e4bf28e067f1ad6f79280c09f7df86da719069f5abb76ac042422a37"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2027_A3/records_Domain.csv.gz",
+      "bytes": 2332,
+      "sha256": "e70b743ae5a42b13b5fd2fa31e6fe544da222cb060f076f35fa4dd97c11d52f0"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2027_A3/records_Predictions.csv.gz",
+      "bytes": 495,
+      "sha256": "57cf3b5de87678deefe4fe94c03ac6b4beeb8a31a9c05fc09da28a5c210ec647"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2027_A3/records_restored.json",
+      "bytes": 1030,
+      "sha256": "ebde04788eb5d8475d1779419dd60cc9939b19b795b3329038b543f46a8c2257"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2027_A3/records_ROC_PR.csv.gz",
+      "bytes": 9144,
+      "sha256": "9e768402af91bd228c16312d135490b5dccb15b4c276dce1bbb1c30e58b0911c"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2027_A3/Standard.csv.gz",
+      "bytes": 2637932,
+      "sha256": "941dd46d5f35be1b0d912199c379e59629431c67d7bd2c5a47495f04eed33677"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2027_A4/calibrators.json",
+      "bytes": 10278,
+      "sha256": "62279e6924a790ce32576d078a4f69020e627b5eae385650c2db116c5fec5872"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2027_A4/coverage_calibrators.json",
+      "bytes": 4146,
+      "sha256": "e177b24575365b2732693b87152215bb7e3fb7ca0f27cda6625cdd1205a2a97f"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2027_A4/External.csv.gz",
+      "bytes": 449166,
+      "sha256": "4a6681965663ae6b54928e410e266b6af1e915251f473e14f52ddac360361cfe"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2027_A4/External_A5.csv.gz",
+      "bytes": 514960,
+      "sha256": "bce179e914f62d938da89fcc503c27fe4bb7a575086320433202e13b27488838"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2027_A4/External_Distance_Only.csv.gz",
+      "bytes": 520777,
+      "sha256": "4dab9b91ec259de1b8515c04950c1c19fe9b7570e1ec2e9258062b69ee31baa8"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2027_A4/OOD_GPT.csv.gz",
+      "bytes": 74904,
+      "sha256": "36a06848d2f83514fa01d1cdd7ec886e06bbcd48891dd364bd57277b2347295d"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2027_A4/OOD_GPT_A5.csv.gz",
+      "bytes": 84028,
+      "sha256": "4eecd624d7e0ff77ba1ef702d8568ff10b7bd2e951f6983533cbeeb4f54a0d0d"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2027_A4/Paraphrase.csv.gz",
+      "bytes": 113238,
+      "sha256": "aecc250b0494bfa81655136225777261399d9f48f59560e28c116604358d6fb2"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2027_A4/Paraphrase_A5.csv.gz",
+      "bytes": 126852,
+      "sha256": "ee7928faf458b7bcf34074f294e55bd41eb35bcbc03001bab5375beceb25cb9f"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2027_A4/records_Bins.csv.gz",
+      "bytes": 7797,
+      "sha256": "392ea3dfb6a94d1b9a7de240845d65b60c87be3c486ba1d53b7a85c594f32964"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2027_A4/records_Calibration.csv.gz",
+      "bytes": 2384,
+      "sha256": "3484a2638e190b8a21dc692e23abf290a57f09a50eb8a1e1cd28b30890dc0d27"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2027_A4/records_Calibration_Diagnosis.csv.gz",
+      "bytes": 1440,
+      "sha256": "2f6781ce6af475ee9ffea17aaaed54c39304a3bc18225c3a7b5f82c8f7911064"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2027_A4/records_Classification.csv.gz",
+      "bytes": 1085,
+      "sha256": "25f992c9be51851f3717ad72950bf3c9465ec6b482008e9dc84350d0e9a938b4"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2027_A4/records_Cost.csv.gz",
+      "bytes": 416,
+      "sha256": "b975b448fe0d9e4ae35fa5e1a842138f037fe07570a1b1dd60ebec24b185b4ad"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2027_A4/records_Coverage.csv.gz",
+      "bytes": 760,
+      "sha256": "6c3970cda5bd37277ba1fbe70fac0031a9a8938f4ddc6cb1683fbd8e9850bea3"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2027_A4/records_Coverage_Fits.csv.gz",
+      "bytes": 777,
+      "sha256": "d0859ca23fcd701d09e331610ce1837f5c349aea2289a9c56ea4ed8496b39ee0"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2027_A4/records_Domain.csv.gz",
+      "bytes": 3498,
+      "sha256": "8d384a1ff48b4fd7ff7cabb5931f4498b3cbefb11241ccdd1b75a10ee9a16eba"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2027_A4/records_Predictions.csv.gz",
+      "bytes": 1070,
+      "sha256": "ac791123299d8ac6cf8b4c76dfb45cd3d44f96c51190e2c309cf808dd3d84387"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2027_A4/records_restored.json",
+      "bytes": 2344,
+      "sha256": "2a895862b7965067043f885560980705ad5b558f0736e486bb83f22399c0d084"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2027_A4/records_Risk.csv.gz",
+      "bytes": 19044,
+      "sha256": "0c4c3b91f1d28f1ff55d75d6423a4344205924e80b8c23e16bbb9911a166fb9f"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2027_A4/records_ROC_PR.csv.gz",
+      "bytes": 20576,
+      "sha256": "99e32b76165d2cb1123562e442f14bf816ff091fead73e01f7dff6b2fdcf56a4"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2027_A4/Standard.csv.gz",
+      "bytes": 2638338,
+      "sha256": "b23e7c4e35a60cc4afa48c42cb1371bd1cb243f664a210943eef1cacca7faa3d"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2027_A4/Standard_A5.csv.gz",
+      "bytes": 2949263,
+      "sha256": "eeaafa23ea1b0a77b9c0e47f765c19f69e56fdbd69a18702635c0602dd1c2877"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2027_DP-Net-adapted/External.csv.gz",
+      "bytes": 452952,
+      "sha256": "011a66a4eadc9b5454927cd976b23d79ba67c11d01310a2174de4ca86709f3cf"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2027_DP-Net-adapted/OOD_GPT.csv.gz",
+      "bytes": 75628,
+      "sha256": "90cae91370eeb48a1cdc15e3c98f9d0db5078524dd8283eb272305f3832dd6ac"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2027_DP-Net-adapted/Paraphrase.csv.gz",
+      "bytes": 113697,
+      "sha256": "0ef2f15d183887b2b4c084cde791b4111f6778d4647d62cca938a900b032965d"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2027_DP-Net-adapted/records_Classification.csv.gz",
+      "bytes": 771,
+      "sha256": "2261504343df3bae2dd288d4ff5be5e3788d7f672741c930ee05e0119b4ea7b1"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2027_DP-Net-adapted/records_Cost.csv.gz",
+      "bytes": 408,
+      "sha256": "6ce479a735d53fa5953a9279e407e10564a654f87e51e419167d541e2fbb4167"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2027_DP-Net-adapted/records_Domain.csv.gz",
+      "bytes": 2418,
+      "sha256": "cfc707d618f691bc6a6135e8a54dbe7a33fcc6271a88aae6c48b4d256cc611a6"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2027_DP-Net-adapted/records_Predictions.csv.gz",
+      "bytes": 600,
+      "sha256": "8f797c9fc40d7f31a645d26f789436f9349bbe2968fd966600de7eac8bb4045d"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2027_DP-Net-adapted/records_restored.json",
+      "bytes": 1278,
+      "sha256": "e9daf75cc9d76263073454ba30e9262c4f89210a3776a333b8c1799d55734723"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2027_DP-Net-adapted/records_ROC_PR.csv.gz",
+      "bytes": 12435,
+      "sha256": "f76f011377d4ca1a39906768f110a22130213a61f146ea260737781725fade17"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2027_DP-Net-adapted/Standard.csv.gz",
+      "bytes": 2661670,
+      "sha256": "c7ce1cc67fa65be1fce9ed34f020a33486b2a7c011662a68bc6be3ac0d2028e0"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2027_Longformer/External.csv.gz",
+      "bytes": 449782,
+      "sha256": "607536c262954b5700d9ac1b005005edfcc663681b81d63b339b448cfe10eb84"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2027_Longformer/OOD_GPT.csv.gz",
+      "bytes": 75250,
+      "sha256": "e829f93560c5f98f3ffd8a2c58b0547aa818d37af152ee6d3a534e2bb1add6e5"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2027_Longformer/Paraphrase.csv.gz",
+      "bytes": 113261,
+      "sha256": "bca5883cd001d99aad649e319e8d6817a65077825823c71d84bb21c99edb4914"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2027_Longformer/records_Classification.csv.gz",
+      "bytes": 762,
+      "sha256": "7f6b2413a363d22ba2bace24228edb68607c95f4089ebb86124ff9f9d0f0497c"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2027_Longformer/records_Cost.csv.gz",
+      "bytes": 403,
+      "sha256": "acb707db5eb360f81696d335ecd3fcc24f66da038d275a65239a373b955e7311"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2027_Longformer/records_Domain.csv.gz",
+      "bytes": 2437,
+      "sha256": "c80abe076553f93c98d2e84d74d1f4ac891883bb2a064670e417f290de5b04e1"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2027_Longformer/records_Predictions.csv.gz",
+      "bytes": 591,
+      "sha256": "ac90f519eb86f1cdc9244b0027312c3b509e6ad16124b395eaf86e763fe97671"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2027_Longformer/records_restored.json",
+      "bytes": 1254,
+      "sha256": "72d901ab30a0dcdd6d1fbcdc28a1fb7e112ff51c49fc9ffd16b4c7e7ebf63ce3"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2027_Longformer/records_ROC_PR.csv.gz",
+      "bytes": 12935,
+      "sha256": "96c6bd2219f2260dad72bad512c79001219eff0205742385aaec2f8de617a530"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2027_Longformer/Standard.csv.gz",
+      "bytes": 2652678,
+      "sha256": "5901a4fb62fec2217e0082b76afad3d59530238fce4920cbe3c30d861aa5c316"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2027_WaveDetect-adapted/External.csv.gz",
+      "bytes": 453825,
+      "sha256": "2d231874acaa53ec21b5f466b320d4d7df84a0340ee9262335df223aa2259c23"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2027_WaveDetect-adapted/OOD_GPT.csv.gz",
+      "bytes": 75759,
+      "sha256": "d7275f698c51961868e2919449be2bdcaa3b3b71dbfc49843b444dbb427b4aaa"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2027_WaveDetect-adapted/Paraphrase.csv.gz",
+      "bytes": 114224,
+      "sha256": "0ed2a4c838ef3a92f4a7792a86d23c16744fb5b2ea9e82f7da105b084d0ba779"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2027_WaveDetect-adapted/records_Classification.csv.gz",
+      "bytes": 771,
+      "sha256": "9bd924bd92c12d7193cbd9f9a1a14223811571009a32c83d31a58fac511c8942"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2027_WaveDetect-adapted/records_Cost.csv.gz",
+      "bytes": 412,
+      "sha256": "36b0f17c8c85fb18b2d406e95245d229c7b23aa2fb71e41b2d266f7b2612c96b"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2027_WaveDetect-adapted/records_Domain.csv.gz",
+      "bytes": 2446,
+      "sha256": "b6c55e2d0516cb07b5928b7de5517419542c9cfdce553f66cbf53ad5a25b7818"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2027_WaveDetect-adapted/records_Predictions.csv.gz",
+      "bytes": 604,
+      "sha256": "7a29e306142ed3dca80b47245782f646a003b56ad9355ea359b32cec948c6ef4"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2027_WaveDetect-adapted/records_restored.json",
+      "bytes": 1302,
+      "sha256": "ffaa9c5bae356b96ce6efca2d8d19fe3c557421d326b19dff32bd541be556c8a"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2027_WaveDetect-adapted/records_ROC_PR.csv.gz",
+      "bytes": 11937,
+      "sha256": "a4b0f763c4eebc37542eb3a76fe5b629fb95ad9a12d19f474acecf03114026d1"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2027_WaveDetect-adapted/Standard.csv.gz",
+      "bytes": 2672481,
+      "sha256": "fcb39a9cc04184e84d64f74e5d1804e00e7c99bf27f0eb3c416e8f769bf255ee"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2028_A0/External.csv.gz",
+      "bytes": 449496,
+      "sha256": "0568540f2609cbbebddcb737e8b2e7371d7e48a5c39c5edfd012cb5350a6705f"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2028_A0/OOD_GPT.csv.gz",
+      "bytes": 74790,
+      "sha256": "a8dd7d0b4c257fa3b188ea7bc7a9f6a7826da987f9890eba6ffe55aeaa364b1c"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2028_A0/Paraphrase.csv.gz",
+      "bytes": 112835,
+      "sha256": "544f9853685acb5bf1da15dc092801a8b06d2bf94330fb6042c8ff9de88e218b"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2028_A0/records_Classification.csv.gz",
+      "bytes": 769,
+      "sha256": "4619906e62fcead8c919440011e8d0b0a2516c5ae6ec771e8f5eda70630d2f92"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2028_A0/records_Cost.csv.gz",
+      "bytes": 395,
+      "sha256": "6dd6e8035e7007c9cce761c3ba28c798ecf3a04c1a20872dec050f17e6441e7b"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2028_A0/records_Domain.csv.gz",
+      "bytes": 2424,
+      "sha256": "2a0872fd60a94e818df8753b56d61ab11b921b972742eda6a8da537582921583"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2028_A0/records_Predictions.csv.gz",
+      "bytes": 595,
+      "sha256": "a42abf7c3bbd7a7cc0c6094492d19f922fbae26c259728d99ccef8a8d7aa9d41"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2028_A0/records_restored.json",
+      "bytes": 1206,
+      "sha256": "8efd12547968644592766ee5e13d240fdf4faf44a5c151acebe946895a4469f1"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2028_A0/records_ROC_PR.csv.gz",
+      "bytes": 12849,
+      "sha256": "d86cf363f640c2d45ef14d5054707eb601c1956b9d78940171439146db8f1b38"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2028_A0/Standard.csv.gz",
+      "bytes": 2637052,
+      "sha256": "6f4abb5f907e613478f316a43d7489abf38ba1382643f4ecfd837004501e4c29"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2028_A1/OOD_GPT.csv.gz",
+      "bytes": 74807,
+      "sha256": "884137ce6160231f86f6cf40f8cab7974a234c4f46d5faa351557589fb73eaaa"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2028_A1/Paraphrase.csv.gz",
+      "bytes": 112998,
+      "sha256": "53e67307a7260c952c7780c539c2c19098815a1ad92d4fae4616c82ce59a3dd8"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2028_A1/records_Classification.csv.gz",
+      "bytes": 634,
+      "sha256": "0fdb67a1aa80c127625591069eb4191ce982141de8cea6d21461ce4975e9830c"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2028_A1/records_Domain.csv.gz",
+      "bytes": 2307,
+      "sha256": "88e181528531769d23a73f5124a9972d4f42d1af2e6d421146b5d94403a183ba"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2028_A1/records_Predictions.csv.gz",
+      "bytes": 492,
+      "sha256": "833c19c79b2440e77d401f0569d5b38e86cc5cb7aca3f390eccd2c51b85158d6"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2028_A1/records_restored.json",
+      "bytes": 1030,
+      "sha256": "1b954051a1829dd46f34f2a82dc68cf2855b4466ab8acee02d9ee7c733cd6332"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2028_A1/records_ROC_PR.csv.gz",
+      "bytes": 9742,
+      "sha256": "d28c93020230181cde37048e4f97e1578a2e6cab8568fb077e37b94a6a0e99fc"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2028_A1/Standard.csv.gz",
+      "bytes": 2634771,
+      "sha256": "02be61d6855356f91e129ceb7b04dd3ee5de8007830006c4ff538a1d3f4d26a3"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2028_A2/OOD_GPT.csv.gz",
+      "bytes": 74815,
+      "sha256": "9c38195770db0bb80e315339c0092ee430e0fea7ad97d32037d84f1e39f78cbb"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2028_A2/Paraphrase.csv.gz",
+      "bytes": 113069,
+      "sha256": "c58fbf29f69f6325888212481517f160834fc1e7c2e9f2d4cd9f5cffa3c02d5d"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2028_A2/records_Classification.csv.gz",
+      "bytes": 631,
+      "sha256": "e07cd388239a5f2d90e2c0c7a798c3d00ef0caecf671647cccc8792824381de7"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2028_A2/records_Domain.csv.gz",
+      "bytes": 2327,
+      "sha256": "f75a0444f7371c0bfaef0e9f3d15f41c9c3e9721891f8d3c7fad7f88fcefc888"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2028_A2/records_Predictions.csv.gz",
+      "bytes": 488,
+      "sha256": "a3521a9c72cf80dd4420c63da03b1292a9956595b800ea4c18f42ed8b3113ad1"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2028_A2/records_restored.json",
+      "bytes": 1030,
+      "sha256": "d3086f1cab05deef019848be0886f748c965c4f335c42679a467ffeff65cea5f"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2028_A2/records_ROC_PR.csv.gz",
+      "bytes": 9560,
+      "sha256": "3715e41b854d74764717687ab071bde4e82f0e847b49091fafb8f78f362cb5ef"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2028_A2/Standard.csv.gz",
+      "bytes": 2636667,
+      "sha256": "ec06cb4191e4bb7ebf1d3ace9b76130c78860a8bf1a5c774beb8e9ca35a21c15"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2028_A2_DRO/OOD_GPT.csv.gz",
+      "bytes": 74965,
+      "sha256": "de8afc6ead3ce287c5290b26ea3dcfc57f136be8cd229cb4ef47555e1afb8ba0"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2028_A2_DRO/Paraphrase.csv.gz",
+      "bytes": 113350,
+      "sha256": "d64d2e10bbfb4e5207e559bb4b63c39da8686e8b309e0e40004ac84737db2b36"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2028_A2_DRO/records_Classification.csv.gz",
+      "bytes": 645,
+      "sha256": "4b81d4837a7da17afa69140c9c68cf90e2f1c4864bd01bf8f080820f7468fc68"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2028_A2_DRO/records_Domain.csv.gz",
+      "bytes": 2340,
+      "sha256": "3b024e9bf9b05abaeb236e24403c98bd9f6ff685bcb28e5e70a8dd7e7d6c1931"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2028_A2_DRO/records_Predictions.csv.gz",
+      "bytes": 498,
+      "sha256": "7c84d09ca811206d427f054fd19c9fb979c71b343ad03862731aeffe478551f1"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2028_A2_DRO/records_restored.json",
+      "bytes": 1050,
+      "sha256": "7655c796928506ff3cc35d368529447d477c7ee349155188af2b4161eb581798"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2028_A2_DRO/records_ROC_PR.csv.gz",
+      "bytes": 9436,
+      "sha256": "d3250d1857f886e8bd2382a2450174f719469762dfa9d50050f74115796a7af9"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2028_A2_DRO/Standard.csv.gz",
+      "bytes": 2645681,
+      "sha256": "dc25fb114b442564b85f8de5aa2322f33f58cd135994c15a7d648e7efb633ab0"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2028_A3/OOD_GPT.csv.gz",
+      "bytes": 74829,
+      "sha256": "f53e6595293765c959e2678f92b1b8714d6ed4876f9bbf8721616b57f59ca5d2"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2028_A3/Paraphrase.csv.gz",
+      "bytes": 113223,
+      "sha256": "fe1ef83cc49a49c96b08a7dd77604db82d2a27a14d64725ffc0126c956f81e55"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2028_A3/records_Classification.csv.gz",
+      "bytes": 640,
+      "sha256": "cb1ee25e0e527ab469827e4d28cc294091578b97a72eb84e2f027a3c784a8481"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2028_A3/records_Domain.csv.gz",
+      "bytes": 2321,
+      "sha256": "5c5a77c02b059446ab71316bbffbd367817cf407ca9c73479268ee9f481e5a5b"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2028_A3/records_Predictions.csv.gz",
+      "bytes": 495,
+      "sha256": "7402fa5c41ef71ffc0114f3086914411987ed5e67fea866cb7411800f2fd6a22"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2028_A3/records_restored.json",
+      "bytes": 1030,
+      "sha256": "07ad362c3bff5bd5996cd5d23300aee80bb489b911abb69e6f29b5a5414d4c8c"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2028_A3/records_ROC_PR.csv.gz",
+      "bytes": 9074,
+      "sha256": "38e172492ce57a5faa0595fda2faf5c47dfe02d3cb76b7670ab7476d486d87d4"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2028_A3/Standard.csv.gz",
+      "bytes": 2639104,
+      "sha256": "133661ecea3e2207cc4b993c06dc23da25e69b9d2a6a7a314d8e435cb96dd93f"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2028_A4/calibrators.json",
+      "bytes": 10395,
+      "sha256": "65e808ea82f554584b7bd7b31f6826c7518878817db2b1e596d40ef8d1134bd8"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2028_A4/coverage_calibrators.json",
+      "bytes": 4144,
+      "sha256": "4407594620f3f6910543027f1726c24ae40191d64bb46d29b17ec14a30c63f99"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2028_A4/External.csv.gz",
+      "bytes": 449358,
+      "sha256": "5484942eeb36371e703ab58c65cc9bbf90cc396acd9d0388d872a6f9759f8c27"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2028_A4/External_A5.csv.gz",
+      "bytes": 515448,
+      "sha256": "dd5340bd0f0aab69ad041b9c1b9e062361e83dcd66c6109dc61e9a5b3ff8b02e"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2028_A4/External_Distance_Only.csv.gz",
+      "bytes": 521074,
+      "sha256": "7a49a6f9fe4bfa1915fd96d2613da03bf81484b279f45edc201b89cdcee55c44"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2028_A4/OOD_GPT.csv.gz",
+      "bytes": 74868,
+      "sha256": "41655bddb1f6788790c1cff40705eee20cf00a1a5ecead2ecdddc5140186efe1"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2028_A4/OOD_GPT_A5.csv.gz",
+      "bytes": 83937,
+      "sha256": "c5200ac6bd854a70a183d66e2b526ac555a5eb30eab65f10f3f4c0666972cbf4"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2028_A4/Paraphrase.csv.gz",
+      "bytes": 113257,
+      "sha256": "fe298b8305766d76bcde1667d7729409d07fa5b9b39aeee773f8e5d20a85049d"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2028_A4/Paraphrase_A5.csv.gz",
+      "bytes": 127033,
+      "sha256": "bd7e3135515bdda27fb02f653037275b479cb052f7adf93062b8e3033699c70f"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2028_A4/records_Bins.csv.gz",
+      "bytes": 7877,
+      "sha256": "a20fae5780d3637eb0f67ef4ec58cb1521f9387779d1561757132c5642e1d894"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2028_A4/records_Calibration.csv.gz",
+      "bytes": 2430,
+      "sha256": "3e8aa52122fe1186f63134d01672250aeeb94e747e2b23d0503795125365b003"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2028_A4/records_Calibration_Diagnosis.csv.gz",
+      "bytes": 1463,
+      "sha256": "b7b804d93938edab3bc0f15a477414b9ee15fdb9d76382bfc67ecffb44635000"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2028_A4/records_Classification.csv.gz",
+      "bytes": 1081,
+      "sha256": "6a789baeed4078ff9e4747ea6772407d6418c3df105ac1dff20ae720f8e1545f"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2028_A4/records_Cost.csv.gz",
+      "bytes": 418,
+      "sha256": "3a605f2e9aac1f5871e5aba9b154f75038dbb1a56fe64571b33b311172500a32"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2028_A4/records_Coverage.csv.gz",
+      "bytes": 777,
+      "sha256": "69ed7a841f13aae31e44acc742844fc962128d51a81212e07b76f620813af76f"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2028_A4/records_Coverage_Fits.csv.gz",
+      "bytes": 782,
+      "sha256": "458ab4d782897fb5160a67ba628c15eda410ff1e421b28d55bb57fe1ab06b5cc"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2028_A4/records_Domain.csv.gz",
+      "bytes": 3492,
+      "sha256": "c896d7ef4b34e2afd8ff5476f42dfc78f7bd9b4aaa169f59f0505e625c05f9a2"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2028_A4/records_Predictions.csv.gz",
+      "bytes": 1080,
+      "sha256": "afdcc5dfc6129e65075ea86462103066f0d0a1ce28e9dc9e64e32a91e60daf1c"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2028_A4/records_restored.json",
+      "bytes": 2344,
+      "sha256": "93a7ffed302284f8f61579479e5955a6480dffbfe4c2fdf458b909f1185f5512"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2028_A4/records_Risk.csv.gz",
+      "bytes": 20071,
+      "sha256": "9a67475ac5fd6accef114864721f327935173cbc494414f64fafb533e52646cd"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2028_A4/records_ROC_PR.csv.gz",
+      "bytes": 20532,
+      "sha256": "ede85f134eec34d37a0bacf0f274424e25a453e877c13a6e9a58418a31cd30b2"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2028_A4/Standard.csv.gz",
+      "bytes": 2638802,
+      "sha256": "ffd075e5238883166b6587260fc747855401e651718f325f198ef30c22cd73a4"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2028_A4/Standard_A5.csv.gz",
+      "bytes": 2951121,
+      "sha256": "133af53960c0ad19743915160d7398caf038c492bf3a3657fb14b1dd0b321e17"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2028_DP-Net-adapted/External.csv.gz",
+      "bytes": 452586,
+      "sha256": "65a46d1e70c77152c2cfb511d70228baf4b276f34489248c977c8c155ae56d4e"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2028_DP-Net-adapted/OOD_GPT.csv.gz",
+      "bytes": 75618,
+      "sha256": "834fab05ed66d94fc474111136bd7228ba2184ecd8fc146edb2a751566e49dc0"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2028_DP-Net-adapted/Paraphrase.csv.gz",
+      "bytes": 113700,
+      "sha256": "438ece1ed5ff679a97911f9668940b4235154776cee105d39fe52d4659287441"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2028_DP-Net-adapted/records_Classification.csv.gz",
+      "bytes": 776,
+      "sha256": "eda2c95d8eda1e7713b598d10bf0887da3dab7c65f74b04c44c68a634339362d"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2028_DP-Net-adapted/records_Cost.csv.gz",
+      "bytes": 409,
+      "sha256": "7304c765e72ff23bc9ac27b0705947d51cbc8104cb622a7767f2092003a5c810"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2028_DP-Net-adapted/records_Domain.csv.gz",
+      "bytes": 2473,
+      "sha256": "c19f6a40a343eaf48025c1afad05f5645edc539e1b8ac84215128c7844547978"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2028_DP-Net-adapted/records_Predictions.csv.gz",
+      "bytes": 601,
+      "sha256": "51a932f071f4b83e86e86286cce0248b25e21932943e4f56b64b0513095f1b38"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2028_DP-Net-adapted/records_restored.json",
+      "bytes": 1278,
+      "sha256": "0e5d41be81ef0ee76812c427b36fd1791ab1c276261caa54562624ca1ee8350f"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2028_DP-Net-adapted/records_ROC_PR.csv.gz",
+      "bytes": 12321,
+      "sha256": "06b2fd74304539ae44145ea32aef07390d259d30752013ad065c92edad5f7ff3"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2028_DP-Net-adapted/Standard.csv.gz",
+      "bytes": 2660831,
+      "sha256": "12a7809e0a8f302b5ec2a31563a5f23dac1220c16e7deec84a8c4e3d00de8fe8"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2028_Longformer/External.csv.gz",
+      "bytes": 449715,
+      "sha256": "c334636ce289ae09dd05e82cda4e468aefaf2c79a83339704e17e4b02ed9999a"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2028_Longformer/OOD_GPT.csv.gz",
+      "bytes": 75222,
+      "sha256": "e8c573b8fb5891f7e6c6280cd00d0e314db1376a02ba8176943c5301454a03bf"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2028_Longformer/Paraphrase.csv.gz",
+      "bytes": 113326,
+      "sha256": "4ff911a0debcfe532b8522bfca636faa9618946076b219b2c175e410454ae585"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2028_Longformer/records_Classification.csv.gz",
+      "bytes": 764,
+      "sha256": "d017fd4cbbadc010ed32a8e4fe3bb093d5785f1fb157025d68688667d1cf5b40"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2028_Longformer/records_Cost.csv.gz",
+      "bytes": 404,
+      "sha256": "3d02e16e8f47b19b9f05a59c86487c58e3a5a1325f7e61c7cb0420dc9f221bb0"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2028_Longformer/records_Domain.csv.gz",
+      "bytes": 2449,
+      "sha256": "59e09dfabb204b06b6d29a335dfd11211f2e62ae0c674bca79022e0a8e300af2"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2028_Longformer/records_Predictions.csv.gz",
+      "bytes": 588,
+      "sha256": "411e8366470ec3c71b4edfd1e713177720e0c4014da0c6bc0892a1c7056387da"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2028_Longformer/records_restored.json",
+      "bytes": 1254,
+      "sha256": "e702e11cd850df9afd7aa8e42486ca4bd2cad390bbb6664c13a24aa3a310b635"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2028_Longformer/records_ROC_PR.csv.gz",
+      "bytes": 12801,
+      "sha256": "236b5a009def8542671d2acb48b36187c307aa25344ce675275120d6e281fa08"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2028_Longformer/Standard.csv.gz",
+      "bytes": 2653012,
+      "sha256": "657e9c2c45776dc00d760653e99961b3e5b9c71a79972d93682aa4034a94ed5b"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2028_WaveDetect-adapted/External.csv.gz",
+      "bytes": 453775,
+      "sha256": "85d7da37de638109b11f3d9cb7594296dc4a79d3bdfb55ede6981e392e9b6bd5"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2028_WaveDetect-adapted/OOD_GPT.csv.gz",
+      "bytes": 75727,
+      "sha256": "6e2f3cb59a2e483a76bd8dfab6b1026d7e94fdee23809d7d927b589587cccd6a"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2028_WaveDetect-adapted/Paraphrase.csv.gz",
+      "bytes": 114377,
+      "sha256": "e69be04da126edf74c91c882f52652a0fb00651b3da9dc1a828196ff6f805316"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2028_WaveDetect-adapted/records_Classification.csv.gz",
+      "bytes": 777,
+      "sha256": "f7f4464738d86717dd2b6ff1d878e47cdc0001fe90dcb71f26ecfd60a5034b07"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2028_WaveDetect-adapted/records_Cost.csv.gz",
+      "bytes": 411,
+      "sha256": "6704b11697d85f16ec4efa327beaef71cce3af093f0251fed0ae25a289e8a503"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2028_WaveDetect-adapted/records_Domain.csv.gz",
+      "bytes": 2423,
+      "sha256": "a4f874dc14b936849e82be3dfac48bf71a889f193ba6d3297bdaef272c27e427"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2028_WaveDetect-adapted/records_Predictions.csv.gz",
+      "bytes": 601,
+      "sha256": "bcac72dfdd2ce66cf8652e21ff8396b5314b116bcce3c3ccff0ed1a900dfade0"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2028_WaveDetect-adapted/records_restored.json",
+      "bytes": 1302,
+      "sha256": "babae7841d3180e1a1f387cac07d714481f373cc6e87222e3391abf32a8775f9"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2028_WaveDetect-adapted/records_ROC_PR.csv.gz",
+      "bytes": 12090,
+      "sha256": "8107973a1519fc5af592339a32eb39f046502f119de8cf01a012009526ad6e95"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2028_WaveDetect-adapted/Standard.csv.gz",
+      "bytes": 2671934,
+      "sha256": "01bcf70217fe620d72ce352b538c2927835715531375eea976280947e73204c2"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2029_A0/External.csv.gz",
+      "bytes": 450107,
+      "sha256": "d0f575fcc41d357b1ecca70baf558252111cae14f955ae9789e54aa79b291633"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2029_A0/OOD_GPT.csv.gz",
+      "bytes": 74856,
+      "sha256": "94f01baba0f9861f8e84d2256fbaa9151caeed5c4478e379b789b2437c54dd3c"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2029_A0/Paraphrase.csv.gz",
+      "bytes": 112758,
+      "sha256": "ba801de857d35c100ae04257a29112ef009469a1811d5f851991d3c76819b6c5"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2029_A0/records_Classification.csv.gz",
+      "bytes": 766,
+      "sha256": "cfb78fafc50cc9c805f25a99a1a9f6b107479c3b8229659eb22b40254a15ffaa"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2029_A0/records_Cost.csv.gz",
+      "bytes": 393,
+      "sha256": "324dc61c73ab31863eb712cdaf22b1fd3083588e396820959f8d1e75e8cb94f0"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2029_A0/records_Domain.csv.gz",
+      "bytes": 2446,
+      "sha256": "6047594cf2adcedb9781ed75e64a9ecd6e6ec7036e0a476bf63edee9e0a6fb05"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2029_A0/records_Predictions.csv.gz",
+      "bytes": 597,
+      "sha256": "4e92c4a25c03f045405c43737334dfae70f24b054aa203bb54e68dffde8fd533"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2029_A0/records_restored.json",
+      "bytes": 1206,
+      "sha256": "725f95ae8a5c22045a3e7ea34d18246257d479fa465bdcfa2796b37b563b5a8e"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2029_A0/records_ROC_PR.csv.gz",
+      "bytes": 12813,
+      "sha256": "2f0811116197cc87ea9d703aa5388cee072620a0f02180f7e7857de5605ad870"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2029_A0/Standard.csv.gz",
+      "bytes": 2635398,
+      "sha256": "3a7f50c17778bf3d6292b01b10e5819f10d9a9e9f5986d4dd1c53702359d5ba1"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2029_A1/OOD_GPT.csv.gz",
+      "bytes": 74669,
+      "sha256": "87dc9e806d0c631ca9c19c39479b03513086adff6696c070ca45d5b2cabcc068"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2029_A1/Paraphrase.csv.gz",
+      "bytes": 112929,
+      "sha256": "5ff3b212999534228364c849d15bbe4d9cc41811d2a7f195136a6f8d49e25115"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2029_A1/records_Classification.csv.gz",
+      "bytes": 628,
+      "sha256": "3a301c0af48fb2adf9c4c09dcaf37457cb724d4747b3bc18886aeff798e88f8f"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2029_A1/records_Domain.csv.gz",
+      "bytes": 2332,
+      "sha256": "911681f6bc794c8fe652faff10d27d1188580558038d2f8c34a6c47a55c24230"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2029_A1/records_Predictions.csv.gz",
+      "bytes": 491,
+      "sha256": "d28b778831c0eca489a97230f4571b3e83b1c64c8145e3f475feb653231eacd2"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2029_A1/records_restored.json",
+      "bytes": 1030,
+      "sha256": "af770896679e532cc44386d959f0b5451510ea152e20dae9d3aca595ceb31ac9"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2029_A1/records_ROC_PR.csv.gz",
+      "bytes": 9803,
+      "sha256": "5f373e3f6662a2fc909aba20d493a693e38ed7e694114ff294c7285c6a63bab8"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2029_A1/Standard.csv.gz",
+      "bytes": 2634977,
+      "sha256": "0926268a86f57152e4aecd4ac54e229c041274004ca168f8a401d5b57c4f5ca7"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2029_A2/OOD_GPT.csv.gz",
+      "bytes": 74791,
+      "sha256": "611711d50d887d21b2a50f5ce752f43a283e66d44afb3229daf8f609d240afc2"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2029_A2/Paraphrase.csv.gz",
+      "bytes": 113007,
+      "sha256": "babacc871b22e491c632f1749984b23acd9d759112dc687ba31df389b4a557eb"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2029_A2/records_Classification.csv.gz",
+      "bytes": 624,
+      "sha256": "4dfc7a4ee8a86c6ea7b1e8604b9590bb319099697ae61709f1e43914846aeb07"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2029_A2/records_Domain.csv.gz",
+      "bytes": 2331,
+      "sha256": "b13aa09b1213fe61737a8d5d9a83b39a74ba5c0e437a803cc59c7f8f2baa5738"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2029_A2/records_Predictions.csv.gz",
+      "bytes": 487,
+      "sha256": "2c851186f79bb535d7e8dc227fad8c8f44f206cb4aa12ff21533dd6565537e7b"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2029_A2/records_restored.json",
+      "bytes": 1030,
+      "sha256": "1b12e2de6d72cda9199dedc8105a178a2f597532acf81f66323f34ba3385b3c1"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2029_A2/records_ROC_PR.csv.gz",
+      "bytes": 9673,
+      "sha256": "5acd980a3b0bbb09f35ca8feb88e0d76ddd6a8b77a26638fd4ed42130da30c86"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2029_A2/Standard.csv.gz",
+      "bytes": 2635333,
+      "sha256": "40c543b84d2994c076ea5ae838890e6a6d5db6c8c0ed29e64ee993ed41c1ea97"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2029_A2_DRO/OOD_GPT.csv.gz",
+      "bytes": 75093,
+      "sha256": "2c5f7dde418b78849f30d9563fbf2bdf252f85cfc76a3bc0d09bd34cabcc8fd1"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2029_A2_DRO/Paraphrase.csv.gz",
+      "bytes": 113354,
+      "sha256": "41b532ebf2f4b0c5772bd83d4ed4509a55d276a1feda7e544d38d0c6f897daa8"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2029_A2_DRO/records_Classification.csv.gz",
+      "bytes": 647,
+      "sha256": "f002880d080f42a05a892e2a69eb097896b40ccc429486787511e9182bf1f580"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2029_A2_DRO/records_Domain.csv.gz",
+      "bytes": 2314,
+      "sha256": "4a54d9d8873185e2e0ea745be75dccc81352de8a1cd78edc00ca3b566ac8b28c"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2029_A2_DRO/records_Predictions.csv.gz",
+      "bytes": 502,
+      "sha256": "c5c80df5cb0c9f22272b44b009a8127a5f6e84711984dfe9c3f7067f54b954f3"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2029_A2_DRO/records_restored.json",
+      "bytes": 1050,
+      "sha256": "7a47f43359ea976d29da95a23603e9ab22b74f60f8348606075ff7952adda43c"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2029_A2_DRO/records_ROC_PR.csv.gz",
+      "bytes": 9375,
+      "sha256": "98bf81b1dccafd4a4226707289831ee488a8c757c1eb37561a5ab48bb94479d6"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2029_A2_DRO/Standard.csv.gz",
+      "bytes": 2648350,
+      "sha256": "09bd2cba8cd05ee6fe89243b83fada619e0d3f888e5461dd86b6079de9a8c648"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2029_A3/OOD_GPT.csv.gz",
+      "bytes": 74979,
+      "sha256": "b33d2a228994c28cea57f8e97b862ecbdf669a1f244c8dbb192e72134285d9a5"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2029_A3/Paraphrase.csv.gz",
+      "bytes": 113088,
+      "sha256": "03e9418e43f6c85836c79b532324044182b90053826dc73c15ded55774983cc1"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2029_A3/records_Classification.csv.gz",
+      "bytes": 638,
+      "sha256": "7e1f8f534347eac73eea67de36453130d9aada5186ab14fa86995e98c564d04d"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2029_A3/records_Domain.csv.gz",
+      "bytes": 2319,
+      "sha256": "6297b0c209b808523200abb410ea2f8f492499eb6983b982713b7f8b5a8604e8"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2029_A3/records_Predictions.csv.gz",
+      "bytes": 493,
+      "sha256": "3a5b2385bce2436b1e7bcd37a1dbefb43286361f6b440986438b9bc35ca75215"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2029_A3/records_restored.json",
+      "bytes": 1030,
+      "sha256": "fa485dcdeea4a9cc9874a8c6000131c37504fd0bc6fb231f8e7d007d96e0b90f"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2029_A3/records_ROC_PR.csv.gz",
+      "bytes": 9189,
+      "sha256": "6b26f130f86873dd0d645b94cebc73bc5e321c1afcc6a8c8e138169e6f705e97"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2029_A3/Standard.csv.gz",
+      "bytes": 2637692,
+      "sha256": "f06ea37560bfc9061551cc93dc2001db07913d468bda4a700fb9590d44b1682d"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2029_A4/calibrators.json",
+      "bytes": 10146,
+      "sha256": "cdcf33799f514496e8d55cee0e4b93b6e8acf96861d2e243b4df3f85da9b7d6b"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2029_A4/coverage_calibrators.json",
+      "bytes": 4167,
+      "sha256": "bfc53e2784e27559c6aaec532ea45e737b59dd3afdbf5dbca709b75c0cf76aba"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2029_A4/External.csv.gz",
+      "bytes": 449183,
+      "sha256": "09c5a10b9364bc4711ef935737c6e120e4d844117bd4ec30f7115dfc5860e8ae"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2029_A4/External_A5.csv.gz",
+      "bytes": 515229,
+      "sha256": "6672880b0aee44a50e39250629465d6908cffc3c2e04eca52476db4073975f5c"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2029_A4/External_Distance_Only.csv.gz",
+      "bytes": 520585,
+      "sha256": "35d7811ffe6d79a8e1cbb517cf9704aa54356632d21742c62eaf2d014acf33a6"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2029_A4/OOD_GPT.csv.gz",
+      "bytes": 74920,
+      "sha256": "f23438bccaede9245cdff8a810534e19f144c843fdc2d28800f91498ba37299f"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2029_A4/OOD_GPT_A5.csv.gz",
+      "bytes": 83932,
+      "sha256": "4e7ed25527c2dc2bdcbe4bcebdcc0571efd93c21b8463df237b98398f066f29c"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2029_A4/Paraphrase.csv.gz",
+      "bytes": 113361,
+      "sha256": "f85015b6490e4c7d13776b3d8ecdca372a54eed4596d91522bb45f271866dbda"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2029_A4/Paraphrase_A5.csv.gz",
+      "bytes": 127106,
+      "sha256": "788f5e0ca9d0e600091a9973fb770abb3f03415c12a45d0c40298231afc07ba0"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2029_A4/records_Bins.csv.gz",
+      "bytes": 7788,
+      "sha256": "1baae2a56a124df53c4895fa065dac237de9f3770b88dfc98ce76c58f6bebd57"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2029_A4/records_Calibration.csv.gz",
+      "bytes": 2499,
+      "sha256": "2b42af57bef0e7ca34bd72a47a9d92aa132608324b8f2aa97c22b15e8a9ce6ce"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2029_A4/records_Calibration_Diagnosis.csv.gz",
+      "bytes": 1436,
+      "sha256": "e749dce5d454bcce2836ba10947101da0613864bc35781da1c9c23cfc4799da2"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2029_A4/records_Classification.csv.gz",
+      "bytes": 1109,
+      "sha256": "9577fa741d6c78ec81acfa24719a5e2128ba4f95acb7c58831fe5b59bfce1695"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2029_A4/records_Cost.csv.gz",
+      "bytes": 417,
+      "sha256": "a02accafa0d5d58a842c1047d9242229e9052a5a16eb5aa5acce6ecbc128fc3f"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2029_A4/records_Coverage.csv.gz",
+      "bytes": 764,
+      "sha256": "e79f694ad4861dd308964771023d5860389b18af29a2d5d2ce368e300dfb0f8b"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2029_A4/records_Coverage_Fits.csv.gz",
+      "bytes": 784,
+      "sha256": "45927fa80094b7e5ffafedc0a4192fbc4f6c2064cd39fd5480182fee580db8bf"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2029_A4/records_Domain.csv.gz",
+      "bytes": 3514,
+      "sha256": "83e67dfb0c46c7857883bb275f3d8466258faac1ffac2963e06db4b6987cd54b"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2029_A4/records_Predictions.csv.gz",
+      "bytes": 1076,
+      "sha256": "2cb4fdbfad06f2d67095776b270d63d2b8960d652d7688ae4247e8a67b0168f0"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2029_A4/records_restored.json",
+      "bytes": 2344,
+      "sha256": "58d5c1a623a510feb415e9c3c7e0a1ac8ad55cc49dd41fd5a5595f32a84d988c"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2029_A4/records_Risk.csv.gz",
+      "bytes": 19936,
+      "sha256": "a2fffe24b4e442525398cc71eba6f1bfbd69a58d3afbcf1d51700c4a387a8531"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2029_A4/records_ROC_PR.csv.gz",
+      "bytes": 20139,
+      "sha256": "da2fc818da1c785c22be6bcb1ba777c7850355a5104e6e5c4088cf8d83391461"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2029_A4/Standard.csv.gz",
+      "bytes": 2638403,
+      "sha256": "a6a71cc2c0fb9563963953bc2e1552c94bf3a616125ebe3c8063f7fccd859ea1"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2029_A4/Standard_A5.csv.gz",
+      "bytes": 2949412,
+      "sha256": "a3a0d25bf91bc94f2a9e538c9a67dece2ae78a9894b567500b38ecf181209b0c"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2029_DP-Net-adapted/External.csv.gz",
+      "bytes": 452426,
+      "sha256": "fecbbcf9adac48c0d3e4c7cfd4d1304687d0652cd204ca2f8a212c9092a99f75"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2029_DP-Net-adapted/OOD_GPT.csv.gz",
+      "bytes": 75618,
+      "sha256": "408988463b66cc5a1431ee29d1b50eae8f24c3cc6689cf8e86a8e98523e459c7"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2029_DP-Net-adapted/Paraphrase.csv.gz",
+      "bytes": 113689,
+      "sha256": "c9de474eaf72f979e82b1494c4102ceba7a2bb79bd4f27d2284295e0af90fbfc"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2029_DP-Net-adapted/records_Classification.csv.gz",
+      "bytes": 778,
+      "sha256": "a5e62b7ac27c40529042cf49bc3bb5b2de030fcd65c61b8c064a67c425144a72"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2029_DP-Net-adapted/records_Cost.csv.gz",
+      "bytes": 408,
+      "sha256": "92544240cc28674439999ef7ac226cb53e8584d4206b870f35b317cad1e069ce"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2029_DP-Net-adapted/records_Domain.csv.gz",
+      "bytes": 2446,
+      "sha256": "5ee574e902a6d36e12ee5189aa0d40b45d76c1279635828741f7d1270088060f"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2029_DP-Net-adapted/records_Predictions.csv.gz",
+      "bytes": 601,
+      "sha256": "91f99415c97d8b3659dec035af79e86f005f8f1669c720b4ea39807be16b7117"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2029_DP-Net-adapted/records_restored.json",
+      "bytes": 1278,
+      "sha256": "27bcbf19737ba885cde8f009a44b3aadd6f351c1cfb844898dcd4ed559cf29b9"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2029_DP-Net-adapted/records_ROC_PR.csv.gz",
+      "bytes": 12331,
+      "sha256": "f2e7671d248781a87c313747d50e2afc500aa0ca319b896e1fbf80d28de9140c"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2029_DP-Net-adapted/Standard.csv.gz",
+      "bytes": 2662498,
+      "sha256": "c2c0896c519159d62b69f0c5d3702496cc5b155f4abaef1c92e56530f7db24b9"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2029_Longformer/External.csv.gz",
+      "bytes": 449925,
+      "sha256": "85513f7e88e0c71b59ee74d6900cd148f6269c742f55da4044dc044f42562f03"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2029_Longformer/OOD_GPT.csv.gz",
+      "bytes": 75187,
+      "sha256": "4faee67d138da6ca936fb3a2b02bf6c3c18d461c52525e4c1680b192c8af8b8b"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2029_Longformer/Paraphrase.csv.gz",
+      "bytes": 113373,
+      "sha256": "e953ac257d495d5929f5c816494dda22f38c0a01a41a43c6e59fbcf4cc0c35f2"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2029_Longformer/records_Classification.csv.gz",
+      "bytes": 756,
+      "sha256": "0ea09b361a1bdcdf4c5840db137dbed6b4bfd2e3d5c173344c84d5b5b98ddd7d"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2029_Longformer/records_Cost.csv.gz",
+      "bytes": 402,
+      "sha256": "d4d3a799021755055683f9e4a11fc0e8d375b7dae3ad0da4cca387600749e491"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2029_Longformer/records_Domain.csv.gz",
+      "bytes": 2444,
+      "sha256": "1d4298c716ac3ea2c3f58c220bd4db8e3f353b8c6d52b10f9ad8c0e6be7cbc16"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2029_Longformer/records_Predictions.csv.gz",
+      "bytes": 593,
+      "sha256": "df9bd3f3f3157df71e8f334d23a2d9d2542f54133d49a9230d9cdd6e54bad32a"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2029_Longformer/records_restored.json",
+      "bytes": 1254,
+      "sha256": "1fdf15c60a5e1318e819e1a12ef0f6d6e30245f93b6b2695008af0a92087629a"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2029_Longformer/records_ROC_PR.csv.gz",
+      "bytes": 12886,
+      "sha256": "385e5858d94ab716c615122e55aed2c31a0947b05b7282c0d91eabd7dbb6567e"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2029_Longformer/Standard.csv.gz",
+      "bytes": 2652308,
+      "sha256": "475e83c2f1391c647260a793ca9609697184c51b0b2ae31bd586b807335d5639"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2029_WaveDetect-adapted/External.csv.gz",
+      "bytes": 453520,
+      "sha256": "4df63fbf89fc78c7e3578e8c1fef0f6ba2e017dfa4dcdab55b33673f70192c82"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2029_WaveDetect-adapted/OOD_GPT.csv.gz",
+      "bytes": 75781,
+      "sha256": "63a385098f011d0e798ec56ff8c69ecc34ef952041576163b5852d0725f96900"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2029_WaveDetect-adapted/Paraphrase.csv.gz",
+      "bytes": 114314,
+      "sha256": "177f3ab9573a86e275f9d21841b6720944696963d2e5c3f71d95834b5002a3b1"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2029_WaveDetect-adapted/records_Classification.csv.gz",
+      "bytes": 771,
+      "sha256": "6901a5ced59b30fb46e4449143cdfdb2d63a56d5a1f69736c91f2be474b99f8d"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2029_WaveDetect-adapted/records_Cost.csv.gz",
+      "bytes": 409,
+      "sha256": "5e86c86f8dea4a574c8b2aeda8f7e4192cbaa257018f662be62c61943747cdcd"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2029_WaveDetect-adapted/records_Domain.csv.gz",
+      "bytes": 2451,
+      "sha256": "31a705126a31209678dcc1c79d5028293c6d00d323c542269b4ee0de0e61f764"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2029_WaveDetect-adapted/records_Predictions.csv.gz",
+      "bytes": 605,
+      "sha256": "fdc60d01ef0136b69575ee6cc4d216f88fbe55e369b91ebf8985c8b252d5b353"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2029_WaveDetect-adapted/records_restored.json",
+      "bytes": 1302,
+      "sha256": "e260659fcbdc7ff48e8a6d3562dd69ba82febef5849ca6be0126906b0ae46efa"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2029_WaveDetect-adapted/records_ROC_PR.csv.gz",
+      "bytes": 12007,
+      "sha256": "ed653580110a718af6bc779862a3e78672fcfe3868f90787eb0c73aeb344a6b9"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2029_WaveDetect-adapted/Standard.csv.gz",
+      "bytes": 2672271,
+      "sha256": "8d820be39058f183db829fa9edaaae2c91837222b6d27d7b2dbbc21a398d01bf"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2030_A0/External.csv.gz",
+      "bytes": 449597,
+      "sha256": "3d29f69cc085fddd605e540382c539450918a5113f9e6119d5da11337f147d30"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2030_A0/OOD_GPT.csv.gz",
+      "bytes": 74802,
+      "sha256": "7f8d6714931df87f87f47ecbd63b2a252f5704563bfbf467d27873ae799bc08f"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2030_A0/Paraphrase.csv.gz",
+      "bytes": 112934,
+      "sha256": "286c121e539f367523e7509b28ed7bc38d98244862602d0fef8de7217d89f3c1"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2030_A0/records_Classification.csv.gz",
+      "bytes": 770,
+      "sha256": "dfc5449fe892052c31b2832258e170e0b8a842ad973bbd6f695c7ba6ebd64521"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2030_A0/records_Cost.csv.gz",
+      "bytes": 394,
+      "sha256": "5544bd434d3079211e5587192bca63bfd038524e552af091b22e115296b9e59c"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2030_A0/records_Domain.csv.gz",
+      "bytes": 2460,
+      "sha256": "bb5a0445877a3914922e1cdec9bd6d3df1ec69b6c5fedd2fcd8afcb2c54cfddc"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2030_A0/records_Predictions.csv.gz",
+      "bytes": 596,
+      "sha256": "b3cf8bdb4734af18e6e4f30f5e1b7cdc1020411b175ceba6c717b16821c631c4"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2030_A0/records_restored.json",
+      "bytes": 1206,
+      "sha256": "74139c1dd98ed0a0505406cc85e6ffb16a7a4202f990f46f8bbd5473a4a20723"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2030_A0/records_ROC_PR.csv.gz",
+      "bytes": 12718,
+      "sha256": "78fadf742cc0ea5d9e7f44cef69cf5a603d113a6a0b63aaef382e82f639b6ec7"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2030_A0/Standard.csv.gz",
+      "bytes": 2636019,
+      "sha256": "d2d883111ce9908a725f8690ffc7cb30467f83e2c182f171519be4171a096d20"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2030_A1/OOD_GPT.csv.gz",
+      "bytes": 74860,
+      "sha256": "2f0d097d644b4e9a4be01c77bf7f07784fb92d29fbaa75f59a0a2c74670de733"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2030_A1/Paraphrase.csv.gz",
+      "bytes": 112985,
+      "sha256": "7c6902ca445c13cca874d970e9a9dce7f50fd4eb8aada7a99981fe5fd0b33eb3"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2030_A1/records_Classification.csv.gz",
+      "bytes": 630,
+      "sha256": "d2d3a773fecc2de9f83132a80e5805ce2f456efd1542533383f98230f1f8d940"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2030_A1/records_Domain.csv.gz",
+      "bytes": 2315,
+      "sha256": "29adec93848dc787c8c35117d8eab4b69383da864fa0b0ddbd50557b7dc4dfbe"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2030_A1/records_Predictions.csv.gz",
+      "bytes": 490,
+      "sha256": "6104fc66ec3b3b7b91b6648b9b1fb4425e26151f2837769d2bd4f7bf94086223"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2030_A1/records_restored.json",
+      "bytes": 1030,
+      "sha256": "6e6a379bbc3cc7af65daf7258149c0d80c47669533256700f318a0b3f2c44ec2"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2030_A1/records_ROC_PR.csv.gz",
+      "bytes": 9790,
+      "sha256": "a41c755280fa5a5a3929e4cfc0ee770de10f28484a16b9c7754c09e859af59f5"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2030_A1/Standard.csv.gz",
+      "bytes": 2634302,
+      "sha256": "c29da2345a0b78bd65199fa049e8a3cf4b76b688a51215c46f48159f2bc1e310"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2030_A2/OOD_GPT.csv.gz",
+      "bytes": 74851,
+      "sha256": "c90ad0fb273340f43c7f663026d0d5edacada7679fb74dae6e98ed0c1b44efe6"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2030_A2/Paraphrase.csv.gz",
+      "bytes": 113162,
+      "sha256": "91b9115dbbc9923bc9bea217879f7710faeef2a5f0a95e528c15b530d0157be2"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2030_A2/records_Classification.csv.gz",
+      "bytes": 631,
+      "sha256": "e0cd2af05584cc766fe19ce39c8e6e0d4e454600a75b359e2bc61b7998eb60d1"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2030_A2/records_Domain.csv.gz",
+      "bytes": 2336,
+      "sha256": "b196d9ac87a56ea2c34b6a81e6f21f574aca9744ebe963ffc8a6a3d871aa71ab"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2030_A2/records_Predictions.csv.gz",
+      "bytes": 488,
+      "sha256": "f9c3f4114ac145f37d6f976e79d45c552b600f3e991989300facc8578d946089"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2030_A2/records_restored.json",
+      "bytes": 1030,
+      "sha256": "cfed786e2558cf5d5967f637667f8395485b01ce63a67c3297d4962a14010a44"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2030_A2/records_ROC_PR.csv.gz",
+      "bytes": 9542,
+      "sha256": "1c4683c4dc1487102ea6b72672edafdc7aca30c570ea072fa4dad5a0921fb993"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2030_A2/Standard.csv.gz",
+      "bytes": 2637185,
+      "sha256": "463baef26c124b447f5d5847f9d5e22050f7e44ce7462efaed43b820d717ae63"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2030_A2_DRO/OOD_GPT.csv.gz",
+      "bytes": 75040,
+      "sha256": "f4be96fd95508878ed833a34ce1ba2cc64472013e4d35f5532cbbee7528b47d0"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2030_A2_DRO/Paraphrase.csv.gz",
+      "bytes": 113483,
+      "sha256": "91dbe97b1d84640ea9293d426d37b2e0a639820fa1362429239d72d4c8be2e3e"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2030_A2_DRO/records_Classification.csv.gz",
+      "bytes": 644,
+      "sha256": "b3cda559d1a03e673ceb4b5f355b38a24f312d204b9220a4f2feefd42458075d"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2030_A2_DRO/records_Domain.csv.gz",
+      "bytes": 2334,
+      "sha256": "d358b016ae309b5197cf37a570c9d3b39246f7dfba1887b982e42ca7dd9d4962"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2030_A2_DRO/records_Predictions.csv.gz",
+      "bytes": 502,
+      "sha256": "b3fbe5761c1f535a8c2b867602cdac69eec968305a9c82cc4ef212180f6c1b8d"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2030_A2_DRO/records_restored.json",
+      "bytes": 1050,
+      "sha256": "cd1b7f56dc6db3f8d35a03a8b15dad7b8b4225c1f8f2c1d385483bf8588dbbf0"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2030_A2_DRO/records_ROC_PR.csv.gz",
+      "bytes": 9420,
+      "sha256": "e1c12b9d80f078b15dd90c72b93bdf2d485aaa39a04f966ee326bf59728759c7"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2030_A2_DRO/Standard.csv.gz",
+      "bytes": 2646912,
+      "sha256": "8b7b7c415d4445c8adb5aa0d3cc9a083a8a5be95d5ad6378e39f9aed8629feeb"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2030_A3/OOD_GPT.csv.gz",
+      "bytes": 74778,
+      "sha256": "8ffcb197d21924879163cae015928b2ae50958ee05c20d5d58f469be08cdaadc"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2030_A3/Paraphrase.csv.gz",
+      "bytes": 113116,
+      "sha256": "344d33592f8f54ffc9eda832f91e862fb79dd94f0362e7de494c3f9a314346e2"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2030_A3/records_Classification.csv.gz",
+      "bytes": 628,
+      "sha256": "812414383eed92b3a2a632c064b5167d04432519174c401c0c6ea0e1a7b3889e"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2030_A3/records_Domain.csv.gz",
+      "bytes": 2296,
+      "sha256": "c580bdbbac2e6fd9c10b77610663c3f98402f5f2a0f8f7cd4a4607715dd81849"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2030_A3/records_Predictions.csv.gz",
+      "bytes": 493,
+      "sha256": "9e85e9bf4e4d9bd73729aaf32ab21675f904280043d0c036cca3ec0a9ed81101"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2030_A3/records_restored.json",
+      "bytes": 1030,
+      "sha256": "72209d99dd8e821ad5d944cf713160e0eefbf0a2aead1c6618c476ed04d5a683"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2030_A3/records_ROC_PR.csv.gz",
+      "bytes": 9063,
+      "sha256": "67bcddfe14e53977e4a46ac339756259ceeac762b7d97e156381c38335009498"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2030_A3/Standard.csv.gz",
+      "bytes": 2637533,
+      "sha256": "176c75e554435e2a15ef466d3c2acba863c52a9bd70ed5979b20e4f19b90756a"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2030_A4/calibrators.json",
+      "bytes": 10081,
+      "sha256": "0f8b5de4b13ec5e8fb19fa8ca24875a6b9db0cc872c3c9e7c0561b0b3abc561e"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2030_A4/coverage_calibrators.json",
+      "bytes": 4225,
+      "sha256": "9c26e9e6b30b8e79db9f1c54e7740427380688e24b55187fd9b2ad90a2216bcb"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2030_A4/External.csv.gz",
+      "bytes": 449273,
+      "sha256": "e2da417c20d9ce9aceb705aa466ed0af7383abaa808d674e422fa743e4a49956"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2030_A4/External_A5.csv.gz",
+      "bytes": 515402,
+      "sha256": "516faaaff5a50cde4bfaae5f7291556ce1ea1a8ed8db5a5651d2b6bbf4a5a432"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2030_A4/External_Distance_Only.csv.gz",
+      "bytes": 520943,
+      "sha256": "7218428dbe9e4126dcbb2d80098b4d700ce1d90ae95f34f9b3768a5f3162fa8f"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2030_A4/OOD_GPT.csv.gz",
+      "bytes": 74867,
+      "sha256": "b11d01968cb188c270722846d957c1683ec024721181361edcef105abad59efa"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2030_A4/OOD_GPT_A5.csv.gz",
+      "bytes": 83976,
+      "sha256": "92be833012b966c76f5cf50d5c613644637cfa784213cd297a1dece3b21ff654"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2030_A4/Paraphrase.csv.gz",
+      "bytes": 113381,
+      "sha256": "9aef4995a21ec6112b2075c111961446d889160c8ed1c6a35a31b401739ec744"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2030_A4/Paraphrase_A5.csv.gz",
+      "bytes": 127133,
+      "sha256": "fbf46d72fa41352f5d0ae91c6fa295e0e14d84394791427780798897962c211e"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2030_A4/records_Bins.csv.gz",
+      "bytes": 8068,
+      "sha256": "14aa123eeb14bf25bcd4e3127ac2187828e47bb04a99770905b7d05cae69bf78"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2030_A4/records_Calibration.csv.gz",
+      "bytes": 2555,
+      "sha256": "601893cf49e24f6b78bc718e29b5e9f30f1768e279debe451b31a910293176e6"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2030_A4/records_Calibration_Diagnosis.csv.gz",
+      "bytes": 1481,
+      "sha256": "dcc0100faeb83160ced1d5a4ed6125f4832c5f2c01b60bc3836b0e77b095a2d2"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2030_A4/records_Classification.csv.gz",
+      "bytes": 1099,
+      "sha256": "36399e5c49607f70cfb348e74de3e1179b49a122cc44aa0520b8018728639413"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2030_A4/records_Cost.csv.gz",
+      "bytes": 420,
+      "sha256": "3119022952b5e45fff137adf9582e49baab626e40c9f334e4e2e06e2e8e47706"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2030_A4/records_Coverage.csv.gz",
+      "bytes": 765,
+      "sha256": "8f882e68a5c1e717dfba21dc1b407fd03289c8670b0f30ef3e704cdd6b4e551e"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2030_A4/records_Coverage_Fits.csv.gz",
+      "bytes": 787,
+      "sha256": "d86a52c2c255688f31538b67d289f1c580d64aa13c67e3a14cd1bdffdef0ca57"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2030_A4/records_Domain.csv.gz",
+      "bytes": 3520,
+      "sha256": "425c3cb91567bbc5a08ea9176ab66b0ba9c74e6fa715c2eb9521faaa2124367c"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2030_A4/records_Predictions.csv.gz",
+      "bytes": 1074,
+      "sha256": "db926554c079444d3340d123f9c3bf29976c8282e7fba69d2d7d6412e8a7133a"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2030_A4/records_restored.json",
+      "bytes": 2344,
+      "sha256": "6d4c2dc1785cf105bc212aa26950ed4b7192d4c88a83068723b55fc413f2dccd"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2030_A4/records_Risk.csv.gz",
+      "bytes": 20425,
+      "sha256": "18affecd38d6a5d5458ea112ddbd0683f038c62abd0a4adcec598a082dc72e00"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2030_A4/records_ROC_PR.csv.gz",
+      "bytes": 21521,
+      "sha256": "d39f5e25584c496ae32fed9cae9aaec5690e5354510e7c39894006eb379d9219"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2030_A4/Standard.csv.gz",
+      "bytes": 2640030,
+      "sha256": "a925bbd99b94d0edfd2d3663e537187876f45240c717feeb07b1612bf95cd03a"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2030_A4/Standard_A5.csv.gz",
+      "bytes": 2952171,
+      "sha256": "da7869a80067ffe9430dfdbccf0c55085c0a8b292711eaf0de6466c26c654717"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2030_DP-Net-adapted/External.csv.gz",
+      "bytes": 452373,
+      "sha256": "c56c5950a9cee847b21e8a9c8cea92ba738a9fdbed942ad18f25aa3305590d38"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2030_DP-Net-adapted/OOD_GPT.csv.gz",
+      "bytes": 75600,
+      "sha256": "f88def18bc92b20a5505f09a88a8006b8f692a0ffbc5feedf61dd3d453408f0f"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2030_DP-Net-adapted/Paraphrase.csv.gz",
+      "bytes": 113810,
+      "sha256": "0619801f6faa37c7780a8c58983db6e0685dca4bf53938326d1b0b92a8c85532"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2030_DP-Net-adapted/records_Classification.csv.gz",
+      "bytes": 772,
+      "sha256": "8f0b1c11d5e45d79fae1c9f6ba8e512b923ec294c7ef799aaa199878cb161087"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2030_DP-Net-adapted/records_Cost.csv.gz",
+      "bytes": 408,
+      "sha256": "bedf6aa99d2a870679435c0a3ef402b04a28638d43d96477fcb0210e3c9440b6"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2030_DP-Net-adapted/records_Domain.csv.gz",
+      "bytes": 2447,
+      "sha256": "b89527737ce7acb917284ce5ea07ad5060b556eb2ccf87fec1897b147e7435db"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2030_DP-Net-adapted/records_Predictions.csv.gz",
+      "bytes": 602,
+      "sha256": "58ee02ae9adb74c02e327d47e36dc4da51e74ae5443a44e965a45b5ff8626fd1"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2030_DP-Net-adapted/records_restored.json",
+      "bytes": 1278,
+      "sha256": "15bcfbb2ffcf2b15487e5353573d6ff5073b94ac518de0bac58b3f21f071491e"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2030_DP-Net-adapted/records_ROC_PR.csv.gz",
+      "bytes": 12304,
+      "sha256": "bd918930d6234d2bda7fb8130093db10254347c58ac6b57491811df18b6e9a32"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2030_DP-Net-adapted/Standard.csv.gz",
+      "bytes": 2661212,
+      "sha256": "be9cece64c4cf5ef7afd7a1053252366ca3e124c89158b3bb59bb8dc226b0b2e"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2030_Longformer/External.csv.gz",
+      "bytes": 449871,
+      "sha256": "a33e6522daff5aa7db3028924e60946f4fd94ada6cbcfe50d81d2fab28875a89"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2030_Longformer/OOD_GPT.csv.gz",
+      "bytes": 75177,
+      "sha256": "a42a701143cf44f392da64f581298ffe1b8a6b026e43f18ce02238a76abb293e"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2030_Longformer/Paraphrase.csv.gz",
+      "bytes": 113236,
+      "sha256": "56a05fd60f1c9a1728d12d76636baeaba9633ef57290cdc26adc41ae148309ff"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2030_Longformer/records_Classification.csv.gz",
+      "bytes": 760,
+      "sha256": "b3a700bf5951efb7b59ac8bdb38f35be1070c06cd73f2c440e5a497725f610b0"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2030_Longformer/records_Cost.csv.gz",
+      "bytes": 399,
+      "sha256": "20fbe77cbf455f7ff419122031bcc0de067a4bd61e7321d7ad9f9bc00ec466a3"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2030_Longformer/records_Domain.csv.gz",
+      "bytes": 2464,
+      "sha256": "f41754776c73b9aa5bc5ebb07438e18bfec13769b0fce9a4b4808f1dd148b934"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2030_Longformer/records_Predictions.csv.gz",
+      "bytes": 593,
+      "sha256": "8bfdb4baffecd04c94c4f496b04ed708699eb54f81cf9090450f38b6e91cec96"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2030_Longformer/records_restored.json",
+      "bytes": 1254,
+      "sha256": "3f95fe74252eba237ba214719e9567408950314f249f0d787096eaf5a4f4e7c7"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2030_Longformer/records_ROC_PR.csv.gz",
+      "bytes": 12838,
+      "sha256": "b79f14e3cec1d4ed4a2d3b219cf5bd9fca8ca3ea83c431c2d945891031e011d9"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2030_Longformer/Standard.csv.gz",
+      "bytes": 2653057,
+      "sha256": "c84b18ed5324cff74a7b51bd59ea52a7061fdef8470afe96c5af9ae4261e3958"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2030_WaveDetect-adapted/External.csv.gz",
+      "bytes": 453775,
+      "sha256": "0a0c7fd348ca1c8e4f5f2c127267483e680c346355632132639918d1481e67b1"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2030_WaveDetect-adapted/OOD_GPT.csv.gz",
+      "bytes": 75853,
+      "sha256": "f409ba97cd740c50aeb37187b0d9d45ff313a5130543623d59e7eb3e89bac360"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2030_WaveDetect-adapted/Paraphrase.csv.gz",
+      "bytes": 114351,
+      "sha256": "4db7f5c5ba4c7c6b71600b05f22f76338c2335e66757186ba19233263dde522a"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2030_WaveDetect-adapted/records_Classification.csv.gz",
+      "bytes": 779,
+      "sha256": "b46d6be6dd4e65707c22e0bfaba2b0d7d9d23fa1a22d218962058eb32f19770b"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2030_WaveDetect-adapted/records_Cost.csv.gz",
+      "bytes": 410,
+      "sha256": "5e06a9a8c024e9b190cf5b6774b4ab5c6a4cb94c49d9e0bc5ee8dfd17b051a62"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2030_WaveDetect-adapted/records_Domain.csv.gz",
+      "bytes": 2461,
+      "sha256": "7250c80a877a6e2aa0f6a323950032614a099b444df7d307021b67492a427cfb"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2030_WaveDetect-adapted/records_Predictions.csv.gz",
+      "bytes": 599,
+      "sha256": "2b9ee9133f0575ed514b777d0bbfb2fbee4d2f49cbb4c66156600ecc9b526e4b"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2030_WaveDetect-adapted/records_restored.json",
+      "bytes": 1302,
+      "sha256": "8b9c7fc031ba5ddd40323b9b1c5fe4ad96da7db619f6ce149aa758bdfcd29fa0"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2030_WaveDetect-adapted/records_ROC_PR.csv.gz",
+      "bytes": 11903,
+      "sha256": "65fb1958ce85ef6fd06c307aaa5744984d7f0ec8512b64c3a783e40e4b729415"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/2030_WaveDetect-adapted/Standard.csv.gz",
+      "bytes": 2670985,
+      "sha256": "6cb996b0bf6f12b85c0e5c241232c31751a7b2e288c0663fbe06214375029684"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/frozen_Binoculars/records_Classification.csv.gz",
+      "bytes": 856,
+      "sha256": "58aff796b7f33a8c9badf904d95e090a29a88db9c1398a8a3ea93b2e1b35487b"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/frozen_Binoculars/records_Cost.csv.gz",
+      "bytes": 370,
+      "sha256": "5ec8c99e153a06a562f4e7e43eda905b486140be9be25b16e34c60780fb12669"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/frozen_Binoculars/records_Domain.csv.gz",
+      "bytes": 2858,
+      "sha256": "4969a042a20873973851cdbb859b6c3bd27ea6b6f13e068b7e771bf4f6a0ae6d"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/frozen_Binoculars/records_Predictions.csv.gz",
+      "bytes": 2067,
+      "sha256": "5fa9ad03ca322e9986d1a88ae8c391bba0464e77a29c58d9c95afc80773306b0"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/frozen_Binoculars/records_restored.json",
+      "bytes": 1265,
+      "sha256": "b981d573918ba5c43ce1a9207d6d5e90d8bfa33683a23c274a313a3993c1b280"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/frozen_Binoculars/records_ROC_PR.csv.gz",
+      "bytes": 53644,
+      "sha256": "bcbbca93929d20bc6a727b466757d4f8afaf8732a930557138a0567140f3c6ca"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/frozen_Binoculars/seed_2026/External.csv.gz",
+      "bytes": 449812,
+      "sha256": "253b63ce9ff94ca5bcbcf8040876d712379a7c6423bfd7e9e94efb492eb9780e"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/frozen_Binoculars/seed_2026/OOD_GPT.csv.gz",
+      "bytes": 75176,
+      "sha256": "3c40ec4cb25c0f746c6ed7fc7daf503df3750a861c871c4f60e9009967df8627"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/frozen_Binoculars/seed_2026/Paraphrase.csv.gz",
+      "bytes": 113483,
+      "sha256": "d0301ebacc96baf277131709fcf9fefb53b8b3cbd3754115dee392d05ba3f88e"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/frozen_Binoculars/seed_2026/Standard.csv.gz",
+      "bytes": 2653140,
+      "sha256": "f3dd042174321fd77f4c49d75b06c147f8a2e251c90ce345a08f0dd8dd45d796"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/frozen_Binoculars/seed_2027/External.csv.gz",
+      "bytes": 449814,
+      "sha256": "3ca882a1139261d3ecc209824660b24ab1864f351b51864315f4eb7e0842720b"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/frozen_Binoculars/seed_2027/OOD_GPT.csv.gz",
+      "bytes": 75172,
+      "sha256": "bd2ab2d5a70539c9a2a393ac44c7cbf18d8d70bb1e9ae11da8c81c5681f233c2"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/frozen_Binoculars/seed_2027/Paraphrase.csv.gz",
+      "bytes": 113483,
+      "sha256": "b59daa0e4e24fc12debbb6878f790f289a87828a777826b2a9286c5c5430c49f"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/frozen_Binoculars/seed_2027/Standard.csv.gz",
+      "bytes": 2653141,
+      "sha256": "14934758b75e67ee6b7a6e3cc1376b10263dda9b151c9cf4ca0cef108691cd96"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/frozen_Binoculars/seed_2028/External.csv.gz",
+      "bytes": 449814,
+      "sha256": "2bc8fbfc50e6b4e7d7e891dd99b8b7a3718220e11d153b663a20d75360bbea37"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/frozen_Binoculars/seed_2028/OOD_GPT.csv.gz",
+      "bytes": 75175,
+      "sha256": "af49ceb225357abdc325e2a1b7638b15d1c0a85063a34eacf3be52168a058555"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/frozen_Binoculars/seed_2028/Paraphrase.csv.gz",
+      "bytes": 113482,
+      "sha256": "23dda2332309d09bf23cd40b08f2e2ff31c420543d3dc306f64aa6a01c4ed91e"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/frozen_Binoculars/seed_2028/Standard.csv.gz",
+      "bytes": 2653140,
+      "sha256": "366ac8ab3ce958519e99b58ae981a18d01d3758c3ac3ed29fac6d7b853084c30"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/frozen_Binoculars/seed_2029/External.csv.gz",
+      "bytes": 449816,
+      "sha256": "e1ba5c898c1f6f887252c0a1db717fa164c792346137fee5ca83d3de88331fa2"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/frozen_Binoculars/seed_2029/OOD_GPT.csv.gz",
+      "bytes": 75176,
+      "sha256": "1daa78a7274e182bbb0aa397b16d38f8cb8dea68b372702e7dbca29ea11edef4"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/frozen_Binoculars/seed_2029/Paraphrase.csv.gz",
+      "bytes": 113486,
+      "sha256": "71a489755d522b6c61a5bc6acfb5b1b8b283f54ae28b6173a82c3a84d0ddac07"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/frozen_Binoculars/seed_2029/Standard.csv.gz",
+      "bytes": 2653141,
+      "sha256": "f986cb010a6136d282aae48e69840d7691cc31639d1a442162e111fe5f2d12c9"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/frozen_Binoculars/seed_2030/External.csv.gz",
+      "bytes": 449815,
+      "sha256": "8eb4d996fdb440debc823ae2cea69bc6e90692d800f4958f9853c6414cddee01"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/frozen_Binoculars/seed_2030/OOD_GPT.csv.gz",
+      "bytes": 75172,
+      "sha256": "03be4d39838338388014ba7bd224a071a33db7ba44335f1b74dbe944ab4b77b0"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/frozen_Binoculars/seed_2030/Paraphrase.csv.gz",
+      "bytes": 113485,
+      "sha256": "d226e289da8b0ebe41b2b4e8089329e198286de890e733b515685c54b3b27412"
+    },
+    {
+      "path": "RIGAT_Actual_Run/runs/frozen_Binoculars/seed_2030/Standard.csv.gz",
+      "bytes": 2653154,
+      "sha256": "a4961417458e48c183429c0558929767330864e4b8f6ad085387c2e1773306b8"
+    },
+    {
+      "path": "RIGAT_Actual_Run/sheet_mapping.csv",
+      "bytes": 3748,
+      "sha256": "42f62ae5a83c8259576b395b1e32b842591e405dbcc9be42f3026ba8112bfa38"
+    },
+    {
+      "path": "RIGAT_Actual_Run/source/rigat_generate_actual.py",
+      "bytes": 49131,
+      "sha256": "9f98976d6be93748dd080e20875437f97c137d149ab9c91eadb0ac093185fcfa"
+    },
+    {
+      "path": "RIGAT_Actual_Run/source/rigat_train.py",
+      "bytes": 80682,
+      "sha256": "993b1d2baec013411588ebec61022f99556a5d238ccf82f60a173b77049789f9"
+    },
+    {
+      "path": "RIGAT_Actual_Run/source/rigat_workbook_io.py",
+      "bytes": 9383,
+      "sha256": "e183d204658e5c9809a3998c28cb30630d925822447e9dd571e4803864541fbf"
+    },
+    {
+      "path": "RIGAT_Actual_Run/source_metadata/calibration_seed_diagnostics.csv",
+      "bytes": 508,
+      "sha256": "b29c306e4cc643df439d479085a3333712f4dde5c4297f15e7facf2f12586e6e"
+    },
+    {
+      "path": "RIGAT_Actual_Run/source_metadata/comparator_protocols.json",
+      "bytes": 5133,
+      "sha256": "8528aedfb77e115420f2253f5f2eae18a39f6311549df62f3e85c2e9c824022c"
+    },
+    {
+      "path": "RIGAT_Actual_Run/source_metadata/config.json",
+      "bytes": 3619,
+      "sha256": "919c776d9a6638aeb3c2919d6cbe902d6b7f41c4ee3b591dc6f5d9bf71cb7dd8"
+    },
+    {
+      "path": "RIGAT_Actual_Run/source_metadata/consistency_checks.csv",
+      "bytes": 22710,
+      "sha256": "6bb1e4605a01c0224ae049cc2f054a8d3bf3334dee8eeef90fe0fcc5db10a4dc"
+    },
+    {
+      "path": "RIGAT_Actual_Run/source_metadata/detector_artifact_manifest.csv",
+      "bytes": 390,
+      "sha256": "4eeade3f6d560437335bf2e84da6009648f52d9cf19e9b52bcad6ff459f237ff"
+    },
+    {
+      "path": "RIGAT_Actual_Run/source_metadata/external_configuration_instances.csv",
+      "bytes": 258916,
+      "sha256": "a5b80a485615f582069af6ac43e522283d69c70f80258e4b875f20b043c19ecd"
+    },
+    {
+      "path": "RIGAT_Actual_Run/source_metadata/hardware_detection.json",
+      "bytes": 294,
+      "sha256": "e75e7d966141acca210045d489cbd9120e476a092073b9f0b8fed51a0895016f"
+    },
+    {
+      "path": "RIGAT_Actual_Run/source_metadata/reporting_protocols.json",
+      "bytes": 4200,
+      "sha256": "8474054ba101b245b9744047dfb2ce5732145a9062412bbf2dc27cb53964e6e4"
+    },
+    {
+      "path": "RIGAT_Actual_Run/source_metadata/review_completion.json",
+      "bytes": 856,
+      "sha256": "4d451696756eb810bf0b49090ba292c5c0db3eb1e189e6ae08d6d0af4c904767"
+    },
+    {
+      "path": "RIGAT_Actual_Run/Timing.csv.gz",
+      "bytes": 138,
+      "sha256": "c1ac706289ee331a3c4ffa6da508e6d81d9f2a9e1db1331d616fa8206b75f45b"
+    },
+    {
+      "path": "RIGAT_Actual_Run/unavailable_artifacts.csv",
+      "bytes": 1274,
+      "sha256": "6fd12c658d01da6846f9aec14f6c999b990bc83f5c0ab627473257dddb3fc946"
+    },
+    {
+      "path": "RIGAT_Actual_Run/valid_calib_ids.csv",
+      "bytes": 302726,
+      "sha256": "cc9b830b7cca67a3b210811f9bc5cd2584d59c886f4854776cc54db176f977ee"
+    },
+    {
+      "path": "RIGAT_Actual_Run/valid_select_ids.csv",
+      "bytes": 1210880,
+      "sha256": "f5857ae509366a2357b79ec40c700d8e8e9964ce2da5fe994a9df4a365d3e9d5"
+    },
+    {
+      "path": "rigat_generate_actual.py",
+      "bytes": 49131,
+      "sha256": "9f98976d6be93748dd080e20875437f97c137d149ab9c91eadb0ac093185fcfa"
+    },
+    {
+      "path": "rigat_train.py",
+      "bytes": 80682,
+      "sha256": "993b1d2baec013411588ebec61022f99556a5d238ccf82f60a173b77049789f9"
+    },
+    {
+      "path": "rigat_workbook_io.py",
+      "bytes": 9383,
+      "sha256": "e183d204658e5c9809a3998c28cb30630d925822447e9dd571e4803864541fbf"
+    },
+    {
+      "path": "TRAINING_GUIDE.md",
+      "bytes": 13369,
+      "sha256": "3f6187f91dc7bd5838ca9910521b8af129e67a0763928d715205837fa843e3f2"
+    }
+  ]
+}
