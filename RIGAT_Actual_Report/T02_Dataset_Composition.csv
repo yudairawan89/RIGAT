@@ -1,0 +1,9 @@
+﻿Dataset_Split,Instances,Human,Machine,Domains,Generators,Role
+train.csv,319071,93318,225753,10,,Representation development
+valid.csv,56792,28799,27993,10,,Internal validation
+test.csv,56819,28741,28078,10,,Standard evaluation
+test_ood_set_gpt.csv,1562,762,800,4,,OOD GPT evaluation
+test_ood_set_gpt_para.csv,2362,762,1600,4,,Paraphrase evaluation
+valid_select,45434,23039,22395,10,,valid_select
+valid_calibration,11358,5760,5598,10,,valid_calibration
+External_Configuration,10000,5000,5000,,,External configuration

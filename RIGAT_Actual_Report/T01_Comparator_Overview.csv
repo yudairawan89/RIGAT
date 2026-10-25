@@ -1,0 +1,12 @@
+﻿Method,Method_Label,Role,Evaluation_Conditions,Calibration_Comparison
+A0_DeBERTa_Prefix,A0 DeBERTa Prefix,Component comparison,Standard; OOD GPT; Paraphrase,False
+Longformer,Longformer,Reference comparator,Standard; OOD GPT; Paraphrase,False
+Binoculars,Binoculars,Reference comparator,Standard; OOD GPT; Paraphrase,False
+DP_Net_2025,DP-Net-adapted,Reference comparator,Standard; OOD GPT; Paraphrase,False
+WaveDetect_2026,WaveDetect-adapted,Reference comparator,Standard; OOD GPT; Paraphrase,False
+A1_Hierarchical_Mean,A1 Hierarchical Mean,Component comparison,Standard; OOD GPT; Paraphrase,False
+A2_Reliability_Agg,A2 Reliability Agg,Component comparison,Standard; OOD GPT; Paraphrase,False
+A2_Plus_GroupDRO_NoInv,A2 Plus GroupDRO NoInv,Component comparison,Standard; OOD GPT; Paraphrase,False
+A3_Invariant_Learning,A3 Invariant Learning,Component comparison,Standard; OOD GPT; Paraphrase,False
+A4_Worst_Environment,A4 Worst Environment,Component comparison,Standard; OOD GPT; Paraphrase,True
+A5_Full_RIGAT,A5 Full RIGAT,Component comparison,Standard; OOD GPT; Paraphrase,True

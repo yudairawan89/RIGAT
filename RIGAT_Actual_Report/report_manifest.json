@@ -1,0 +1,48 @@
+{
+  "version": "2.0.2",
+  "source_workbook": "C:\\Users\\LEGION\\Documents\\Codex\\2026-10-25\\and\\outputs\\RIGAT_Results_Organized\\RIGAT_Actual_Run\\RIGAT_Training_Results.xlsx",
+  "sha256": "2cd2d0a594a5fe010dbe27d80a000a895e5562de52c5f4b687b9bc9aba3b4b94",
+  "operation": "preserve_supplied_tables",
+  "tables": [
+    "T01_Comparator_Overview",
+    "T02_Dataset_Composition",
+    "T03_Experimental_Configuration",
+    "T04_Ablation_and_Baselines",
+    "T05_Standard_Test",
+    "T06_Robustness_Shifts",
+    "T07_Calibration_Trust",
+    "T08_Coverage_Efficiency",
+    "T09_Statistical_Comparisons",
+    "T10_Calibration_Diagnosis",
+    "T11_RAID_Validation",
+    "T12_Computational_Cost"
+  ],
+  "table_rows": {
+    "T01_Comparator_Overview": 11,
+    "T02_Dataset_Composition": 8,
+    "T03_Experimental_Configuration": 22,
+    "T04_Ablation_and_Baselines": 11,
+    "T05_Standard_Test": 11,
+    "T06_Robustness_Shifts": 11,
+    "T07_Calibration_Trust": 24,
+    "T08_Coverage_Efficiency": 10,
+    "T09_Statistical_Comparisons": 249,
+    "T10_Calibration_Diagnosis": 35,
+    "T11_RAID_Validation": 8,
+    "T12_Computational_Cost": 6
+  },
+  "figures": [
+    "Fig10_Risk_Coverage_Curves.png",
+    "Fig11_RAID_Transfer.png",
+    "Fig12_Model_Size_vs_F1.png",
+    "Fig3_Ablation_MacroF1.png",
+    "Fig4_Confusion_Matrices.png",
+    "Fig5_ROC_PR_Curves.png",
+    "Fig6_Robustness_and_Domain.png",
+    "Fig7_ECE_AURC_Bar.png",
+    "Fig8_Latency_Coverage.png",
+    "Fig9_Reliability_Diagrams.png"
+  ],
+  "recomputed_existing_values": false,
+  "output_sha256": "f4f6e4109f8ccf7a1a18216ae4ccb5b748a295e02c2893c8459054e9b2fc36fa"
+}

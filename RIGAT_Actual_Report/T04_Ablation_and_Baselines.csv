@@ -1,0 +1,12 @@
+﻿Method,Method_Label,Document_Coverage,Reliability,Invariance,GroupDRO,Calibration,n_runs
+A0_DeBERTa_Prefix,A0 DeBERTa Prefix,512-token prefix,False,False,False,None,5
+Longformer,Longformer,4096-token sparse context,False,False,False,None,5
+Binoculars,Binoculars,512-token scoring window,False,False,False,None,1
+DP_Net_2025,DP-Net-adapted,512-token prefix,False,False,False,None,5
+WaveDetect_2026,WaveDetect-adapted,Multi-scale spectral segments,False,False,False,None,5
+A1_Hierarchical_Mean,A1 Hierarchical Mean,Up to 8 descriptive 512-word chunks,False,False,False,None,5
+A2_Reliability_Agg,A2 Reliability Agg,Up to 8 descriptive 512-word chunks,True,False,False,None,5
+A2_Plus_GroupDRO_NoInv,A2 Plus GroupDRO NoInv,Up to 8 descriptive 512-word chunks,True,False,True,None,5
+A3_Invariant_Learning,A3 Invariant Learning,Up to 8 descriptive 512-word chunks,True,True,False,None,5
+A4_Worst_Environment,A4 Worst Environment,Up to 8 descriptive 512-word chunks,True,True,True,None,5
+A5_Full_RIGAT,A5 Full RIGAT,Up to 8 descriptive 512-word chunks,True,True,True,Adaptive Trust,5

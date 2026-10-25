@@ -1,0 +1,23 @@
+﻿Component,Configuration
+Seeds,"2026, 2027, 2028, 2029, 2030"
+Label convention,0 = Machine; 1 = Human
+Decision threshold,0.5 probability / 0 logit
+Validation division,80% selection; 20% calibration; joint label/domain stratification; seed 2026
+Calibration partition size,11358
+Calibration optimization,L-BFGS-B; independent fits per method and seed; PAVA for Isotonic
+Trust objective,"NLL + 0.5*Brier + 0.0001*||theta||^2; theta=(log T,bias,active coefficients)"
+Trust constraints,alpha >= 0; beta >= 0; T > 0
+Entropy input,"Normalized binary predictive entropy, range [0,1]"
+ECE,"15 equal-width top-label confidence bins over [0.5,1]"
+AURC,Mean empirical selective risk; expected order within exact confidence ties
+Statistical interval,Paired seed differences; 95% Student t interval
+Multiple comparisons,"Holm correction within condition, metric, and comparison family"
+Coverage protocols,Fixed K=8 calibration; K-specific calibration; identical raw logits per K
+Coverage length unit,Whitespace-delimited words; 512 words per descriptive chunk
+External configuration,10000 configured instances; balanced classes; protocol: external_configuration_v1
+Independent detector training runs,0 in this generator execution
+Main calibration fits,35
+Additional coverage calibration fits,20
+Timing and coverage protocol definitions,reproducibility_package/reporting_protocols.json
+External dataset protocol,reproducibility_package/external_protocol.json
+Comparator identity mapping,reproducibility_package/comparator_protocols.json
