@@ -1,0 +1,17 @@
+Artifact,Status,Reason
+model.safetensors,Unavailable,Model weights were not supplied
+encoder_config/,Unavailable,Executed encoder configuration was not supplied
+reference.npz,Unavailable,Reference embeddings and matrices were not supplied
+reference_ids.csv,Unavailable,Training reference IDs were not supplied
+pretrained_loading_info.json,Unavailable,Model loading diagnostics were not supplied
+run_complete.json,Unavailable,Detector training completion cannot be verified
+tokenizer/,Unavailable,Tokenizer assets were not supplied
+tokenizer_longformer/,Unavailable,Longformer tokenizer assets were not supplied
+token_cache/,Unavailable,Full dataset token cache was not supplied
+train_ids.csv,Unavailable,Training document labels/domains/IDs were not supplied
+source_mapping.csv,Unavailable,Original src-to-domain/generator records were not supplied
+Timing,Unavailable,Individual detector timing measurements were not supplied
+Coverage_Timing,Unavailable,Individual restricted-K timing measurements were not supplied
+History,Unavailable,Detector epoch logs were not supplied
+Baseline_Fits,Unavailable,Binoculars threshold/positive-scale fit records were not supplied
+coverage_raw_K*.csv.gz,Unavailable,Restricted-K per-document predictions were not supplied

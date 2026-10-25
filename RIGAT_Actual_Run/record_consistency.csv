@@ -1,0 +1,206 @@
+Seed,Method,Condition,N,Confusion_Counts_Equal,Macro_F1_Difference
+2026,A0,Standard,56819,True,0.0
+2026,A1,Standard,56819,True,0.0
+2026,A2_DRO,Standard,56819,True,0.0
+2026,A2,Standard,56819,True,0.0
+2026,A3,Standard,56819,True,0.0
+2026,A4,Standard,56819,True,0.0
+2026,A5,Standard,56819,True,0.0
+2026,Binoculars,Standard,56819,True,0.0
+2026,DP-Net-adapted,Standard,56819,True,0.0
+2026,Longformer,Standard,56819,True,0.0
+2026,WaveDetect-adapted,Standard,56819,True,0.0
+2026,A0,OOD GPT,1562,True,0.0
+2026,A1,OOD GPT,1562,True,0.0
+2026,A2_DRO,OOD GPT,1562,True,0.0
+2026,A2,OOD GPT,1562,True,0.0
+2026,A3,OOD GPT,1562,True,0.0
+2026,A4,OOD GPT,1562,True,0.0
+2026,A5,OOD GPT,1562,True,0.0
+2026,Binoculars,OOD GPT,1562,True,0.0
+2026,DP-Net-adapted,OOD GPT,1562,True,0.0
+2026,Longformer,OOD GPT,1562,True,0.0
+2026,WaveDetect-adapted,OOD GPT,1562,True,0.0
+2026,A0,Paraphrase,2362,True,0.0
+2026,A1,Paraphrase,2362,True,0.0
+2026,A2_DRO,Paraphrase,2362,True,0.0
+2026,A2,Paraphrase,2362,True,0.0
+2026,A3,Paraphrase,2362,True,0.0
+2026,A4,Paraphrase,2362,True,0.0
+2026,A5,Paraphrase,2362,True,0.0
+2026,Binoculars,Paraphrase,2362,True,0.0
+2026,DP-Net-adapted,Paraphrase,2362,True,0.0
+2026,Longformer,Paraphrase,2362,True,0.0
+2026,WaveDetect-adapted,Paraphrase,2362,True,0.0
+2027,A0,Standard,56819,True,0.0
+2027,A1,Standard,56819,True,0.0
+2027,A2_DRO,Standard,56819,True,0.0
+2027,A2,Standard,56819,True,0.0
+2027,A3,Standard,56819,True,0.0
+2027,A4,Standard,56819,True,0.0
+2027,A5,Standard,56819,True,0.0
+2027,Binoculars,Standard,56819,True,0.0
+2027,DP-Net-adapted,Standard,56819,True,0.0
+2027,Longformer,Standard,56819,True,0.0
+2027,WaveDetect-adapted,Standard,56819,True,0.0
+2027,A0,OOD GPT,1562,True,0.0
+2027,A1,OOD GPT,1562,True,0.0
+2027,A2_DRO,OOD GPT,1562,True,0.0
+2027,A2,OOD GPT,1562,True,0.0
+2027,A3,OOD GPT,1562,True,0.0
+2027,A4,OOD GPT,1562,True,0.0
+2027,A5,OOD GPT,1562,True,0.0
+2027,Binoculars,OOD GPT,1562,True,0.0
+2027,DP-Net-adapted,OOD GPT,1562,True,0.0
+2027,Longformer,OOD GPT,1562,True,0.0
+2027,WaveDetect-adapted,OOD GPT,1562,True,0.0
+2027,A0,Paraphrase,2362,True,0.0
+2027,A1,Paraphrase,2362,True,0.0
+2027,A2_DRO,Paraphrase,2362,True,0.0
+2027,A2,Paraphrase,2362,True,0.0
+2027,A3,Paraphrase,2362,True,0.0
+2027,A4,Paraphrase,2362,True,0.0
+2027,A5,Paraphrase,2362,True,0.0
+2027,Binoculars,Paraphrase,2362,True,0.0
+2027,DP-Net-adapted,Paraphrase,2362,True,0.0
+2027,Longformer,Paraphrase,2362,True,0.0
+2027,WaveDetect-adapted,Paraphrase,2362,True,0.0
+2028,A0,Standard,56819,True,0.0
+2028,A1,Standard,56819,True,0.0
+2028,A2_DRO,Standard,56819,True,0.0
+2028,A2,Standard,56819,True,0.0
+2028,A3,Standard,56819,True,0.0
+2028,A4,Standard,56819,True,0.0
+2028,A5,Standard,56819,True,0.0
+2028,Binoculars,Standard,56819,True,0.0
+2028,DP-Net-adapted,Standard,56819,True,0.0
+2028,Longformer,Standard,56819,True,0.0
+2028,WaveDetect-adapted,Standard,56819,True,0.0
+2028,A0,OOD GPT,1562,True,0.0
+2028,A1,OOD GPT,1562,True,0.0
+2028,A2_DRO,OOD GPT,1562,True,0.0
+2028,A2,OOD GPT,1562,True,0.0
+2028,A3,OOD GPT,1562,True,0.0
+2028,A4,OOD GPT,1562,True,0.0
+2028,A5,OOD GPT,1562,True,0.0
+2028,Binoculars,OOD GPT,1562,True,0.0
+2028,DP-Net-adapted,OOD GPT,1562,True,0.0
+2028,Longformer,OOD GPT,1562,True,0.0
+2028,WaveDetect-adapted,OOD GPT,1562,True,0.0
+2028,A0,Paraphrase,2362,True,0.0
+2028,A1,Paraphrase,2362,True,0.0
+2028,A2_DRO,Paraphrase,2362,True,0.0
+2028,A2,Paraphrase,2362,True,0.0
+2028,A3,Paraphrase,2362,True,0.0
+2028,A4,Paraphrase,2362,True,0.0
+2028,A5,Paraphrase,2362,True,0.0
+2028,Binoculars,Paraphrase,2362,True,0.0
+2028,DP-Net-adapted,Paraphrase,2362,True,0.0
+2028,Longformer,Paraphrase,2362,True,0.0
+2028,WaveDetect-adapted,Paraphrase,2362,True,0.0
+2029,A0,Standard,56819,True,0.0
+2029,A1,Standard,56819,True,0.0
+2029,A2_DRO,Standard,56819,True,0.0
+2029,A2,Standard,56819,True,0.0
+2029,A3,Standard,56819,True,0.0
+2029,A4,Standard,56819,True,0.0
+2029,A5,Standard,56819,True,0.0
+2029,Binoculars,Standard,56819,True,0.0
+2029,DP-Net-adapted,Standard,56819,True,0.0
+2029,Longformer,Standard,56819,True,0.0
+2029,WaveDetect-adapted,Standard,56819,True,0.0
+2029,A0,OOD GPT,1562,True,0.0
+2029,A1,OOD GPT,1562,True,0.0
+2029,A2_DRO,OOD GPT,1562,True,0.0
+2029,A2,OOD GPT,1562,True,0.0
+2029,A3,OOD GPT,1562,True,0.0
+2029,A4,OOD GPT,1562,True,0.0
+2029,A5,OOD GPT,1562,True,0.0
+2029,Binoculars,OOD GPT,1562,True,0.0
+2029,DP-Net-adapted,OOD GPT,1562,True,0.0
+2029,Longformer,OOD GPT,1562,True,0.0
+2029,WaveDetect-adapted,OOD GPT,1562,True,0.0
+2029,A0,Paraphrase,2362,True,0.0
+2029,A1,Paraphrase,2362,True,0.0
+2029,A2_DRO,Paraphrase,2362,True,0.0
+2029,A2,Paraphrase,2362,True,0.0
+2029,A3,Paraphrase,2362,True,0.0
+2029,A4,Paraphrase,2362,True,0.0
+2029,A5,Paraphrase,2362,True,0.0
+2029,Binoculars,Paraphrase,2362,True,0.0
+2029,DP-Net-adapted,Paraphrase,2362,True,0.0
+2029,Longformer,Paraphrase,2362,True,0.0
+2029,WaveDetect-adapted,Paraphrase,2362,True,0.0
+2030,A0,Standard,56819,True,0.0
+2030,A1,Standard,56819,True,0.0
+2030,A2_DRO,Standard,56819,True,0.0
+2030,A2,Standard,56819,True,0.0
+2030,A3,Standard,56819,True,0.0
+2030,A4,Standard,56819,True,0.0
+2030,A5,Standard,56819,True,0.0
+2030,Binoculars,Standard,56819,True,0.0
+2030,DP-Net-adapted,Standard,56819,True,0.0
+2030,Longformer,Standard,56819,True,0.0
+2030,WaveDetect-adapted,Standard,56819,True,0.0
+2030,A0,OOD GPT,1562,True,0.0
+2030,A1,OOD GPT,1562,True,0.0
+2030,A2_DRO,OOD GPT,1562,True,0.0
+2030,A2,OOD GPT,1562,True,0.0
+2030,A3,OOD GPT,1562,True,0.0
+2030,A4,OOD GPT,1562,True,0.0
+2030,A5,OOD GPT,1562,True,0.0
+2030,Binoculars,OOD GPT,1562,True,0.0
+2030,DP-Net-adapted,OOD GPT,1562,True,0.0
+2030,Longformer,OOD GPT,1562,True,0.0
+2030,WaveDetect-adapted,OOD GPT,1562,True,0.0
+2030,A0,Paraphrase,2362,True,0.0
+2030,A1,Paraphrase,2362,True,0.0
+2030,A2_DRO,Paraphrase,2362,True,0.0
+2030,A2,Paraphrase,2362,True,0.0
+2030,A3,Paraphrase,2362,True,0.0
+2030,A4,Paraphrase,2362,True,0.0
+2030,A5,Paraphrase,2362,True,0.0
+2030,Binoculars,Paraphrase,2362,True,0.0
+2030,DP-Net-adapted,Paraphrase,2362,True,0.0
+2030,Longformer,Paraphrase,2362,True,0.0
+2030,WaveDetect-adapted,Paraphrase,2362,True,0.0
+2026,A0,External,10000,True,0.0
+2026,A4_Distance_Only,External,10000,True,0.0
+2026,A4,External,10000,True,0.0
+2026,A5,External,10000,True,0.0
+2026,Binoculars,External,10000,True,0.0
+2026,DP-Net-adapted,External,10000,True,0.0
+2026,Longformer,External,10000,True,0.0
+2026,WaveDetect-adapted,External,10000,True,0.0
+2027,A0,External,10000,True,0.0
+2027,A4_Distance_Only,External,10000,True,0.0
+2027,A4,External,10000,True,0.0
+2027,A5,External,10000,True,0.0
+2027,Binoculars,External,10000,True,0.0
+2027,DP-Net-adapted,External,10000,True,0.0
+2027,Longformer,External,10000,True,0.0
+2027,WaveDetect-adapted,External,10000,True,0.0
+2028,A0,External,10000,True,0.0
+2028,A4_Distance_Only,External,10000,True,0.0
+2028,A4,External,10000,True,0.0
+2028,A5,External,10000,True,0.0
+2028,Binoculars,External,10000,True,0.0
+2028,DP-Net-adapted,External,10000,True,0.0
+2028,Longformer,External,10000,True,0.0
+2028,WaveDetect-adapted,External,10000,True,0.0
+2029,A0,External,10000,True,0.0
+2029,A4_Distance_Only,External,10000,True,0.0
+2029,A4,External,10000,True,0.0
+2029,A5,External,10000,True,0.0
+2029,Binoculars,External,10000,True,0.0
+2029,DP-Net-adapted,External,10000,True,0.0
+2029,Longformer,External,10000,True,0.0
+2029,WaveDetect-adapted,External,10000,True,0.0
+2030,A0,External,10000,True,0.0
+2030,A4_Distance_Only,External,10000,True,0.0
+2030,A4,External,10000,True,0.0
+2030,A5,External,10000,True,0.0
+2030,Binoculars,External,10000,True,0.0
+2030,DP-Net-adapted,External,10000,True,0.0
+2030,Longformer,External,10000,True,0.0
+2030,WaveDetect-adapted,External,10000,True,0.0

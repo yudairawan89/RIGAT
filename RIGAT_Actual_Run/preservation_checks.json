@@ -1,0 +1,29 @@
+{
+  "source_sheets_preserved": 22,
+  "original_nonempty_cells_preserved": 954053,
+  "original_worksheet_xml_identical": true,
+  "original_shared_strings_identical": true,
+  "original_style_definitions_preserved": true,
+  "original_cell_value_hashes_identical": true,
+  "original_formula_count": 0,
+  "added_sheets": 18,
+  "added_sheet_values_match_inputs_exactly": true,
+  "training_workbook_sheets": 40,
+  "report_workbook_sheets": 13,
+  "report_table_worksheet_xml_identical": true,
+  "prediction_files_checked": 205,
+  "prediction_original_numeric_values_identical": true,
+  "cost_workbook_bytes_identical": true,
+  "figures_copied_unchanged": 10,
+  "tables": 12,
+  "headers_only_sheets": [
+    "Timing",
+    "Coverage_Timing",
+    "History",
+    "Baseline_Fits"
+  ],
+  "source_archive_sha256": "835327e56a8c58a01540fd9bc35a055f3ef130ec85b57ba6eac26c049829138b",
+  "source_workbook_sha256": "a4254d90f9f6341da0486c700b7dca636b107b1bd25d0d4b6c368031a4830f66",
+  "output_training_workbook_sha256": "2cd2d0a594a5fe010dbe27d80a000a895e5562de52c5f4b687b9bc9aba3b4b94",
+  "output_report_workbook_sha256": "f4f6e4109f8ccf7a1a18216ae4ccb5b748a295e02c2893c8459054e9b2fc36fa"
+}

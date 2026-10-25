@@ -1,0 +1,13 @@
+Original_Method,Canonical_Method
+A0_DeBERTa_Prefix,A0
+A1_Hierarchical_Mean,A1
+A2_Reliability_Agg,A2
+A2_Plus_GroupDRO_NoInv,A2_DRO
+A3_Invariant_Learning,A3
+A4_Worst_Environment,A4
+A5_Full_RIGAT,A5
+DP_Net_2025,DP-Net-adapted
+WaveDetect_2026,WaveDetect-adapted
+Longformer,Longformer
+Binoculars,Binoculars
+A4_Distance_Only,A4_Distance_Only

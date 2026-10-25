@@ -1,0 +1,32 @@
+{
+  "operation": "record_restoration",
+  "source_sheets_preserved": 22,
+  "added_sheets": [
+    "Classification",
+    "Calibration",
+    "Bins",
+    "Risk",
+    "Calibration_Diagnosis",
+    "Dataset_Composition",
+    "Configuration",
+    "Coverage",
+    "Coverage_Fits",
+    "Timing",
+    "Coverage_Timing",
+    "History",
+    "Baseline_Fits",
+    "Cost",
+    "Predictions",
+    "ROC_PR",
+    "Domain",
+    "Run_Registry"
+  ],
+  "prediction_files_restored": 205,
+  "training_runs_completed": 0,
+  "training_completion_verified": false,
+  "requested_runs_complete": false,
+  "record_restoration_complete": true,
+  "main_calibrator_fit_records": 35,
+  "coverage_fit_records": 20,
+  "missing_artifacts_manifest": "unavailable_artifacts.csv"
+}
